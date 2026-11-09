@@ -1,0 +1,526 @@
+[
+  {
+    "path": "web/assets/audio/basic-attack.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/flash/flash-cast.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/flash/source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/hook-cast.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/e-empower.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/e-hit.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/provenance.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/r-cast.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/w-activate.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/skills/w-end.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/turret-hit.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/turret-shot.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/turret-target-extended.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/turret-target-single-044.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/turrets/turret-target.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/age-of-man.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/death.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/exterminate.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/focus.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/golem-joke.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/however-long.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/leaking-oil.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/losing-steam.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/magic-calls.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/metal-stronger.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/poor-bones.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/precisely.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/rolling-golem.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/audio/voice/tremble-flesh.wav",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-fullbody.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-materials/aged-yellow-basecolor.46f000102005e744.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-materials/aged-yellow-basecolor.934272f6b63ea94b.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-materials/aged-yellow-roughness.5ab56dca175fc5e2.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-materials/aged-yellow-roughness.de1e87c13e16d312.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/blitz-viewmodel.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/flash-video/departure.49e52e9d2856f9e3.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/flash-video/pixel-correspondence-tests.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/flash-video/source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-flower-candidate/map.79593e206740bf1d.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v20/collision-study.mjs",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v20/collision.e06f65aba28614a7.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v20/game-probes.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v20/map.978dba74ce1cace5.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v36/collision.93fad933f339c794.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v36/game-probes.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v36/map.16e20ecd1269fd4a.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v39/collision.8e88cb3b81d9274a.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v39/game-probes.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v39/map.f847a3493df20b26.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v49/collision.5eb69477d5eeab2d.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/map-study-v49/map.4b256204c876eba9.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/fullbody.8504b896c6aaa1ef.bin",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/fullbody.8504b896c6aaa1ef.bin.b22dea5dd0291683.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/fullbody.8504b896c6aaa1ef.bin.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/viewmodel.2aa38ae0da7d99b9.bin",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/viewmodel.2aa38ae0da7d99b9.bin.0c3ffb1b2ea37f5c.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/player-models/viewmodel.2aa38ae0da7d99b9.bin.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/skill-animations/skills.403e90667511be4b.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/skill-animations/skills.403e90667511be4b.json.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/skill-animations/skills.9b293d06ddb21614.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/skill-animations/skills.9b293d06ddb21614.json.gz",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/skill-animations/source.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/cannon.1720a299e7573d6f.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/cannon.2c6ba2c87cd3e711.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/cannon.503dfb5f75d62b40.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/cannon.94cfca1a5b72e852.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/cannon.ea1159ec02004cd1.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/guardian.2988b19a54afe0fc.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/guardian.638195a23537033b.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/guardian.eca6d8f038e90aa4.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/mage.768d796854b89a2f.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/mage.794da90add458ea8.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/mage.976c71bc6d1e06e4.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/mage.adda0e7dff7aac77.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/mage.b3e2d52dc5b40951.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/targets/source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/turret/turret-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/turret/turret.5a9fd4b0b1c143e9.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/turret/turret.6993d07c771b7e6d.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/turret/turret.782104e94ef3eff8.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/grab.svg",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/jump.svg",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/punch.svg",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/Overdrive.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/PowerFist.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/RocketGrab.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/StaticField.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/SummonerFlash.png",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/flash-source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/assets/ui/skills/source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/cannon-visor-components.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/cannon-wheel-colors.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/duel-avatar-v0.24.62-baseline.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/duel-avatar-v0.24.77-skill-rest-baseline.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/duel-avatar-v0.24.79-render-baseline.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/guardian-crest-components.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/hand-refresh-v0.24.74-function.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/mage-crystal-surface.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/main-duel-pose-v0.24.60-baseline.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/turret-sweep-oracle-regressions.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/viewmodel-animation-v0.24.52.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/tests/fixtures/w-controller-v87-baseline.txt",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/cannon-rear-crest-v2474/regression-fixture.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/cannon-rear-crest-v2474/regression.mjs",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/duel-cover-pull/duel-cover-pull-repro.mjs",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/guardian-face-v2475/regression.mjs",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/head-ui-v2415/baseline-signatures.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/mage-face-v2477/portable-regression.mjs",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/recovered-assets/cannon.ea1159ec02004cd1.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/recovered-assets/guardian.638195a23537033b.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/recovered-assets/mage.976c71bc6d1e06e4.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/recovered-assets/mage.b3e2d52dc5b40951.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2412/guardian-v2411.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2412/mage-v2411.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2413/cannon-v2412.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2413/front-ray-samples.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2423/guardian-v2422.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2424/mage-v2423.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2424/runtime-evidence.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2430/cannon-v2429.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/reference-models-v2472/mage-shoulder-evidence.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-shield-v2425/turret-v2424.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-single-warning-v71/previous-source-manifest.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-stone-weathering/patch-centers.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-surface-v2433/edit-details.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-surface-v2433/runtime-groove-rays.json",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  },
+  {
+    "path": "web/validation/turret-surface-v2433/turret-v2432.glb",
+    "reason": "Non-source asset, historical validation or unreviewed data omitted"
+  }
+]

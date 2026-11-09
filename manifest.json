@@ -1,5 +1,6 @@
 {
-  "scope": "source-only partial backup; not runnable complete release",
+  "scope": "Public source project, license pending, assets incomplete",
+  "fileCount": 555,
   "files": [
     {
       "path": "EXCLUSIONS.json",
@@ -7,9 +8,19 @@
       "sha256": "b7136b1ee640a769b479d025760d572933159a0ba8901006d4ae6f12ab98eb52"
     },
     {
+      "path": "LICENSE_STATUS.md",
+      "bytes": 461,
+      "sha256": "b3f8f24cca654e6c6a78f25e1447790dd643960375290f6cb79033053c82b6bf"
+    },
+    {
       "path": "README.md",
-      "bytes": 2498,
-      "sha256": "5492c6b031b3823630e32ede3542267dd0b41ab4870e013888526b54f406933d"
+      "bytes": 3646,
+      "sha256": "efdb6c6d8a5d5c6b338bf93ee9a2331dd3d5434ab5bc09131c9b9dd64c6ad63e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1683,
+      "sha256": "4150bf07f4af5a15b6cf6d9c9cca46961c889fe3a9f33f8d5afb568ff0646833"
     },
     {
       "path": "modeling/flower-candidate/REFERENCE.md",
@@ -40,6 +51,51 @@
       "path": "modeling/flower-candidate/verify_saved.py",
       "bytes": 1499,
       "sha256": "e4ef2f1f4f8e600a0836934d93e638e60b9ce2db34398d631b04639b08c9f241"
+    },
+    {
+      "path": "modeling/fungi-v49/REFERENCE.md",
+      "bytes": 1174,
+      "sha256": "86808ab619e32865d09d19795341d94a2adabe97891569e035a68b995e5d543a"
+    },
+    {
+      "path": "modeling/fungi-v49/append_glb.py",
+      "bytes": 2521,
+      "sha256": "f053b407185bc762f46983d4e4bc9f0ce460fa4a36abe08a0d113ec0cd3b026b"
+    },
+    {
+      "path": "modeling/fungi-v49/native/model_fungi.py",
+      "bytes": 3416,
+      "sha256": "0e01f24106e346b0a7931b984c4088c06efd50646319823b25f4bffce41b9c2c"
+    },
+    {
+      "path": "modeling/fungi-v49/native/scene_snapshot.py",
+      "bytes": 11439,
+      "sha256": "ddda6560ad1972be1af9f4d03200cabf172c78381b3c1b0df1e00f8497b26491"
+    },
+    {
+      "path": "modeling/fungi-v49/validation/collision_containment.py",
+      "bytes": 2357,
+      "sha256": "47e141cda7ef93d8c04f802011b23ddb1fe0159400fce6fe63bb1a20861fe780"
+    },
+    {
+      "path": "modeling/fungi-v49/validation/find_fungi_sites.py",
+      "bytes": 2485,
+      "sha256": "36c985cb411796bee9003a904a914b95bf827e21143a8ff0b14db1acdaa0e638"
+    },
+    {
+      "path": "modeling/fungi-v49/validation/fungi_contacts.py",
+      "bytes": 2678,
+      "sha256": "4ed9797c7c67bbd4d78568f8855710192b5d2c580e60ca51e1105ae8285a761a"
+    },
+    {
+      "path": "modeling/fungi-v49/validation/glb_check.py",
+      "bytes": 2596,
+      "sha256": "dd2b9465f29a6413e96838c31e38a03b837d62b1cb488b72ab06a885b2ba8cb8"
+    },
+    {
+      "path": "modeling/fungi-v49/validation/scene_snapshot.py",
+      "bytes": 11439,
+      "sha256": "ddda6560ad1972be1af9f4d03200cabf172c78381b3c1b0df1e00f8497b26491"
     },
     {
       "path": "web/audio-cues.js",
@@ -2721,6 +2777,5 @@
       "bytes": 6533,
       "sha256": "f8d81f9e1d259fabc161d801fd1a69650e97f684a94ed21548188cd84ac5ffca"
     }
-  ],
-  "fileCount": 544
+  ]
 }
