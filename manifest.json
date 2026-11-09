@@ -1,0 +1,2726 @@
+{
+  "scope": "source-only partial backup; not runnable complete release",
+  "files": [
+    {
+      "path": "EXCLUSIONS.json",
+      "bytes": 20346,
+      "sha256": "b7136b1ee640a769b479d025760d572933159a0ba8901006d4ae6f12ab98eb52"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2498,
+      "sha256": "5492c6b031b3823630e32ede3542267dd0b41ab4870e013888526b54f406933d"
+    },
+    {
+      "path": "modeling/flower-candidate/REFERENCE.md",
+      "bytes": 1174,
+      "sha256": "86808ab619e32865d09d19795341d94a2adabe97891569e035a68b995e5d543a"
+    },
+    {
+      "path": "modeling/flower-candidate/append_glb.py",
+      "bytes": 2559,
+      "sha256": "f99bbcd1af9d0ee9a2b88f445859b1b269763fb085210e12e7ebef969623ac34"
+    },
+    {
+      "path": "modeling/flower-candidate/model.py",
+      "bytes": 5169,
+      "sha256": "ed7dd788a658eceb33eff223ef5c5a98f3c6d9abbab89c0e12435591df8ecc23"
+    },
+    {
+      "path": "modeling/flower-candidate/render.py",
+      "bytes": 1597,
+      "sha256": "ee7fbc7596cc582c643c17d11c4cf17b949e2317ea6a64b0f5a0044631afee0b"
+    },
+    {
+      "path": "modeling/flower-candidate/validate_contacts.py",
+      "bytes": 2827,
+      "sha256": "03a513ff72ce606aa364cc396873d3df0f9ea8ea0d579dcdadc1dde67cb5a58e"
+    },
+    {
+      "path": "modeling/flower-candidate/verify_saved.py",
+      "bytes": 1499,
+      "sha256": "e4ef2f1f4f8e600a0836934d93e638e60b9ce2db34398d631b04639b08c9f241"
+    },
+    {
+      "path": "web/audio-cues.js",
+      "bytes": 1496,
+      "sha256": "77cea9a6e807a0b0d55cf692cd1a29eeee88e556840446358c5c25c3f2bd6589"
+    },
+    {
+      "path": "web/blitz-materials.js",
+      "bytes": 3269,
+      "sha256": "e7e2f86b2f339e30f93a211efc7684f8088c2639cabc69481d94f71bf24c682b"
+    },
+    {
+      "path": "web/build-v39.mjs",
+      "bytes": 8247,
+      "sha256": "3cadc81204eb2568c810c58b9dbad4934d142a68a8e9c8b4fbfe7ff4005d22e3"
+    },
+    {
+      "path": "web/build-v49-camp-observer.mjs",
+      "bytes": 2294,
+      "sha256": "cb91389706178337c64f89f986dea46d1bf884600cea5a901645bb751e536233"
+    },
+    {
+      "path": "web/build-v49-cleanup-visual.mjs",
+      "bytes": 2270,
+      "sha256": "9b1733a264d9ebca852cb7b5d76e5069ce993c3cea023cbe3d86d58c016426ee"
+    },
+    {
+      "path": "web/build-v49-flower-visual.mjs",
+      "bytes": 2287,
+      "sha256": "5cba25778b1866d87b6bfe25c460913c1dd1bff3764d8f94d52a925106d3e728"
+    },
+    {
+      "path": "web/build-v49-guarded-visual.mjs",
+      "bytes": 2270,
+      "sha256": "dd74f46626036df6e7ca205dd2611b44206fbd2d5d64de570a489b750f8e3803"
+    },
+    {
+      "path": "web/build-v49-keyboard-visual.mjs",
+      "bytes": 2273,
+      "sha256": "b5ee5bac0ef4f26a880ce0d33936ef161ac9314f108ac8eec9531b56d5bc6d07"
+    },
+    {
+      "path": "web/build-v49-pointer-visual.mjs",
+      "bytes": 2270,
+      "sha256": "ecb33db18eb63dc463345de8ef4776c232a0b6060d32f66cce54998d9f224ef6"
+    },
+    {
+      "path": "web/build-v49-resilient-visual.mjs",
+      "bytes": 2276,
+      "sha256": "85101bac17bcbd8349143db8ae50a1f00b48d2a3ec6f06af0116e5c5c07a5d77"
+    },
+    {
+      "path": "web/build-v49-skill-visual.mjs",
+      "bytes": 2264,
+      "sha256": "1a16da3a7c35568af6d5a03202445e408934a0c16a3ff555e827c229723decda"
+    },
+    {
+      "path": "web/build-v49-viewport-visual.mjs",
+      "bytes": 2273,
+      "sha256": "fa02a013c3803bdd04a3f1ccf248e1b84b94fcd65fd6137b1e5769d0d5f9d8d6"
+    },
+    {
+      "path": "web/build-v49-visual.mjs",
+      "bytes": 2253,
+      "sha256": "d2fe62e3f41fe6e6f923225767a01f13bb4ce4ad0513b4a58b677951c7e4ecc1"
+    },
+    {
+      "path": "web/build.mjs",
+      "bytes": 7830,
+      "sha256": "3dafec8ed69b1a7ac438371a12e994a0694f0808c0d5819fd7142a0bfe92f1cb"
+    },
+    {
+      "path": "web/combo-practice.css",
+      "bytes": 1582,
+      "sha256": "b2d94bb4ff626d3194ab65cac7c47b9bd6fa2a1fa88c7c74eb1d678e4f9c1cdf"
+    },
+    {
+      "path": "web/combo-practice.js",
+      "bytes": 3044,
+      "sha256": "92f5dac3a7440055f12a17fdb99ee8ba614da662e4064d3aec3788933560a410"
+    },
+    {
+      "path": "web/core.js",
+      "bytes": 2826,
+      "sha256": "8263efddea02cfab96d6082d0df78b614fc07757632d1234061ed63181775134"
+    },
+    {
+      "path": "web/duel-avatar.js",
+      "bytes": 18327,
+      "sha256": "f8a05bf7ce235090facfd07e38863fc0b8e45e1d9fe3e3cffef657bd7a6d1f58"
+    },
+    {
+      "path": "web/duel-bot-inputs.js",
+      "bytes": 18294,
+      "sha256": "e32762ebf9351b0b93275e3e26d28c0a2985c70aea540ff37a65b490bb7f4bf4"
+    },
+    {
+      "path": "web/duel-hook-contacts.js",
+      "bytes": 9985,
+      "sha256": "db0a2bb3f20d29e29d45abf45133b4bdc5812ef21ffa93e64cd4e75511b193d4"
+    },
+    {
+      "path": "web/duel-pull-path.js",
+      "bytes": 19161,
+      "sha256": "932c2c542e2ebf0232ddb1957545a3b438a957d37d98ba41e0602df10e3a761e"
+    },
+    {
+      "path": "web/duel-round-rules.js",
+      "bytes": 13000,
+      "sha256": "2d71668fa9827567d356a472f34a2e7b6568e19a70e568b7d3ce2ebe87d3a0f9"
+    },
+    {
+      "path": "web/duel-simulation.js",
+      "bytes": 12290,
+      "sha256": "f6d3d3427bf2dae1883742adc5fe2fd381de451a3fcdc594f3cc73397b94370b"
+    },
+    {
+      "path": "web/duel-skill-contacts.js",
+      "bytes": 2634,
+      "sha256": "306da77afc036091dd26d00c0f78bb2b3c1498a88601e3596f2eebe91e03a25f"
+    },
+    {
+      "path": "web/flash-audio.js",
+      "bytes": 483,
+      "sha256": "ba2c6c3e4eb38542bd4189f50b0663b1756e3160d75dfecfaed50434abf58a91"
+    },
+    {
+      "path": "web/flash-controller.js",
+      "bytes": 3737,
+      "sha256": "bee6a104b2755428b75df7be9d0a61267aff169267d5151156a2e7afdd722961"
+    },
+    {
+      "path": "web/flash-controls.css",
+      "bytes": 2574,
+      "sha256": "a86459d3500231940fb3eef4d8aac06127e79421ca79c89d5f0dde2b8e24383d"
+    },
+    {
+      "path": "web/flash-frame-manifest.js",
+      "bytes": 1201,
+      "sha256": "cdfa7716719fca60d3f1c01076359a16d6c1b72618b8f74a5bc211230d5f86d5"
+    },
+    {
+      "path": "web/flash-frame-vfx.js",
+      "bytes": 4714,
+      "sha256": "412c452bf5e535fe68db96a3b63379b48f4cdcb7265d64cbaa8661f55e7eb10d"
+    },
+    {
+      "path": "web/fullbody-locomotion.js",
+      "bytes": 15351,
+      "sha256": "d182375051e3f83043244d0ca92eb6ad3fd2fcc4b7dd99ab7faa053721729c34"
+    },
+    {
+      "path": "web/game-audio.js",
+      "bytes": 7249,
+      "sha256": "db7bfc7ca5075ecb43120fc709d6e1e475da53e4e1179a7043891888d94cd768"
+    },
+    {
+      "path": "web/hook-chain.js",
+      "bytes": 5462,
+      "sha256": "7e936857dd2ba32d21367dd47f77cde4ae1dd823f1873b40c68cfacbd1820488"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 8483,
+      "sha256": "88eda82eb39aa5783e1d535b31e915826da02045103392a2cce086dffc9d097a"
+    },
+    {
+      "path": "web/irregular-targets.css",
+      "bytes": 399,
+      "sha256": "3438b2ceefd25bf6a875b819b34dd6d78946dcbc68b0f151b7407087b488c0f3"
+    },
+    {
+      "path": "web/irregular-targets.js",
+      "bytes": 2181,
+      "sha256": "4c7ba111c64a67c198c0469fe057b779ad1b86a62079994c06f244ff6c6e8c39"
+    },
+    {
+      "path": "web/main.js",
+      "bytes": 105528,
+      "sha256": "73636a10f157d5ab3733e7e4ae173747ba7a3e85b1413b345e887cd3b7e2959e"
+    },
+    {
+      "path": "web/mobile-interface.css",
+      "bytes": 6620,
+      "sha256": "1759420bfc25aed22e48359842713a82398209d81d937a740e057efafaf3054e"
+    },
+    {
+      "path": "web/mode-records.js",
+      "bytes": 5582,
+      "sha256": "b849be5ec0ee3b7d55446f9e6b3d27f01ae52836fcb273767ee8f7833c9e5ef8"
+    },
+    {
+      "path": "web/model-codec.js",
+      "bytes": 12451,
+      "sha256": "ceae45083ce08f5b6751867c54f160e21b45c19996413802872cebe902e57934"
+    },
+    {
+      "path": "web/mouse-look.js",
+      "bytes": 3517,
+      "sha256": "871baf891c298db161e17aea9364eddea85dfdff7b3ee7a1656afef8ca369247"
+    },
+    {
+      "path": "web/neutral-audio.js",
+      "bytes": 3103,
+      "sha256": "b7d88149f38aedeaa5e70f5112dd7834d0be3c4aa74e818c5dfab9bc2d92fdfb"
+    },
+    {
+      "path": "web/online-duel-app.js",
+      "bytes": 20870,
+      "sha256": "4508bd22279eda2ebde70a47d8a7f2c30d85620aa693f8133138e477a58c9f1d"
+    },
+    {
+      "path": "web/online-duel-peer.js",
+      "bytes": 15164,
+      "sha256": "1a8a92963a360589d3dc1508ee4261238c0ab87717e35bebc043e0826215eea2"
+    },
+    {
+      "path": "web/online-duel-protocol.js",
+      "bytes": 2431,
+      "sha256": "1f8f7211e567d3af778c84d76ad898d1e29650f8f267b6a7a144854f2b9b97ba"
+    },
+    {
+      "path": "web/online-duel-session.js",
+      "bytes": 7419,
+      "sha256": "0516310196b4fe2e8b6d581a2a2d644c441c140136da580b8bafbb01e2f9ea75"
+    },
+    {
+      "path": "web/online-duel-view.js",
+      "bytes": 10714,
+      "sha256": "6ccf4d01d4935ef226a2ae918b1fb62e1f60681705aef73683cbd6ce3dd91ff5"
+    },
+    {
+      "path": "web/online-duel-world.js",
+      "bytes": 10952,
+      "sha256": "9b10c60ac15f63250bf5602c2ea89ff22735771cd7833916a08872d2e8bd2a4c"
+    },
+    {
+      "path": "web/online-duel.css",
+      "bytes": 2392,
+      "sha256": "98371caafcfb2bf5fdd3e31d6edfb335a630a98cc0738fd3e0b9d01101faa27d"
+    },
+    {
+      "path": "web/online-remote-smoothing.js",
+      "bytes": 4108,
+      "sha256": "16f48f90514213ed6169a0127bb2a4d1e87c9bc7db72c5aa6ea8805f0cd3c0c7"
+    },
+    {
+      "path": "web/online.html",
+      "bytes": 4943,
+      "sha256": "a07b26e4827287ff31a87776959da1f448566af2f25e5fbdead771f3f891df54"
+    },
+    {
+      "path": "web/package-lock.json",
+      "bytes": 551,
+      "sha256": "f5471d16b3ea72860e73c8c5dd420988e2b287da29efd6576a6497207765cd29"
+    },
+    {
+      "path": "web/package.json",
+      "bytes": 1732,
+      "sha256": "b0fae69bf73076ab78b134efe4b4660e69f2f0ee3caf210df0581501ba08b33f"
+    },
+    {
+      "path": "web/player-model-manifest.js",
+      "bytes": 785,
+      "sha256": "e03e5a405e4da52e863c4b9978f5d8d09eda9b1cf3013eeeeaad859b90b0a38a"
+    },
+    {
+      "path": "web/rift-map-flash.js",
+      "bytes": 2624,
+      "sha256": "6154210f8c3aaee4befa06cf25b93bb08621da2eb4fa7d94ee1a5b26a0640732"
+    },
+    {
+      "path": "web/rift-map-hook.js",
+      "bytes": 5525,
+      "sha256": "2e5f6b5fdbdfa7fce5e5abf2ab10d7ee806cc94e42664ba95e4308a2a5a9c074"
+    },
+    {
+      "path": "web/rift-map-loader.js",
+      "bytes": 2735,
+      "sha256": "3e0bd60a690a73a1885270fd1d13cccade190cdce7218eec3a44c6c8efe5d0c1"
+    },
+    {
+      "path": "web/rift-map-planar-ui.js",
+      "bytes": 1584,
+      "sha256": "e09801791fa02ca62d06bca3e027e7c1fbad54bc02511fa3b28bd7045a465c1c"
+    },
+    {
+      "path": "web/rift-map-planar.js",
+      "bytes": 2403,
+      "sha256": "bd04b1f26b60420102ec8bd2b1d66e9f02998731049243a4c57f91fef5d34f55"
+    },
+    {
+      "path": "web/rift-map-pull.js",
+      "bytes": 6860,
+      "sha256": "3b011d8b0e69a28aaf79cbfd276a70cf2d6e97dd522d70560c9525e7b10795e1"
+    },
+    {
+      "path": "web/rift-map-revisions.js",
+      "bytes": 1353,
+      "sha256": "24fe8c456b75de24979329003a995f66805ba98e673e822db9a374f8fef36739"
+    },
+    {
+      "path": "web/rift-map-study.js",
+      "bytes": 3923,
+      "sha256": "48e60c663854c3de7d8ceb9b2934a3b5fc2a99d9aa2c9882ce192050557fcbb1"
+    },
+    {
+      "path": "web/rift-map-test.html",
+      "bytes": 7454,
+      "sha256": "3576dd90c8229adc543edeb84ce0df129fc9b0319e53c8a092234fe8e36cad0b"
+    },
+    {
+      "path": "web/rift-map-test.js",
+      "bytes": 16658,
+      "sha256": "5086575de5a84665a35d8aec1c53a317f836c63e6fd211471798be2a7e9e626e"
+    },
+    {
+      "path": "web/rift-map-v36-test.html",
+      "bytes": 8027,
+      "sha256": "df4ce7e2c0b6be64261c93adc2b71d3c8323d9f4191b6f408baccb98c54d3e07"
+    },
+    {
+      "path": "web/rift-map-v39-test.html",
+      "bytes": 8031,
+      "sha256": "411e3965c3c1b02ffc2fd24d794c5bafc2e1df347c1e398767008fe3a0c988e5"
+    },
+    {
+      "path": "web/rift-v39-flash.js",
+      "bytes": 2624,
+      "sha256": "fb7e9adc84126e02d9c98f9e5daf5f692f9783730a80c8e9a551c5fa4596a4b2"
+    },
+    {
+      "path": "web/rift-v39-footprint-coverage.js",
+      "bytes": 6028,
+      "sha256": "17738d013c7905fe0059f96b66eb022ffe49081aab1e9c92551629928afeab1f"
+    },
+    {
+      "path": "web/rift-v39-hook.js",
+      "bytes": 5525,
+      "sha256": "2a92b8a7e616dfcc8c8604458191c6bc9092de5c8b5eba091dc6ca31aa0f03ea"
+    },
+    {
+      "path": "web/rift-v39-loader.js",
+      "bytes": 2735,
+      "sha256": "385b7840a1fa45e199349532bb36545fc7111a3ec1ad874c167d72d146228c80"
+    },
+    {
+      "path": "web/rift-v39-planar-ui.js",
+      "bytes": 1584,
+      "sha256": "e09801791fa02ca62d06bca3e027e7c1fbad54bc02511fa3b28bd7045a465c1c"
+    },
+    {
+      "path": "web/rift-v39-planar.js",
+      "bytes": 2403,
+      "sha256": "f06073011cebac81cf8509ad4516f22affda80d643a9c93b0e4c2a226e94c760"
+    },
+    {
+      "path": "web/rift-v39-pull.js",
+      "bytes": 6860,
+      "sha256": "8129f0a354fd5c747bdbe841f581665cc60569feb375c9cb97f7abe172b3bfa0"
+    },
+    {
+      "path": "web/rift-v39-revisions.js",
+      "bytes": 1911,
+      "sha256": "7cf8e963e87202950e4f0948833acf68694e865b0025afa5fd8000c831c55de3"
+    },
+    {
+      "path": "web/rift-v39-route-search.js",
+      "bytes": 6071,
+      "sha256": "7b337c2cb90c8895abb32d61c270173087bb1b682473058ed6c77693e0fa389b"
+    },
+    {
+      "path": "web/rift-v39-spawn-audit.js",
+      "bytes": 2516,
+      "sha256": "a86427499fb4442726c74e661bde3ad39c6301474b1023849cda82bb57452d5c"
+    },
+    {
+      "path": "web/rift-v39-study.js",
+      "bytes": 3923,
+      "sha256": "9694713e08ca853bdc7cfaa3e7f204e5b9c1a725a8b37a23b4be7463185b6590"
+    },
+    {
+      "path": "web/rift-v39-support-audit.js",
+      "bytes": 4517,
+      "sha256": "95bb5aeb98475e3bd7c21c25ec335ce609e3e319f1eeed4eda0b0f2316763402"
+    },
+    {
+      "path": "web/rift-v39-test.js",
+      "bytes": 16658,
+      "sha256": "f4733da7b6514176f8f4dee684f43a01c7d8c896dd84ccc33c1051e914d569cc"
+    },
+    {
+      "path": "web/rift-v49-actor-envelope.js",
+      "bytes": 863,
+      "sha256": "e0fab122adb0c8b8581bcf865698078cde5cfd9784bc357c83f7eea08c836c49"
+    },
+    {
+      "path": "web/rift-v49-actor-safe-trial.js",
+      "bytes": 3539,
+      "sha256": "b211215e8bcfd351b78c7928f926029291a1ba49c4756344c0a0f9b377eda702"
+    },
+    {
+      "path": "web/rift-v49-analog-movement-trial.js",
+      "bytes": 4062,
+      "sha256": "f9cab7cd1bab748a20b2d227bf232548b87ab9ff94ddca876c15b18281c032aa"
+    },
+    {
+      "path": "web/rift-v49-audited-flash.js",
+      "bytes": 2975,
+      "sha256": "545eb49a1f818fcfc7b15b57a4b8b935dcb9c066246819b9516400d9ae3dce69"
+    },
+    {
+      "path": "web/rift-v49-audited-hook.js",
+      "bytes": 4283,
+      "sha256": "afcc45ef25637a784c46ac77a8275ba1b4d9493fda384d5f52fdf3c1be1aa374"
+    },
+    {
+      "path": "web/rift-v49-audited-movement.js",
+      "bytes": 2635,
+      "sha256": "32289a4791e8966ac106a87040cdeaf1684fa70b771f4b7c1a3546130c6b9010"
+    },
+    {
+      "path": "web/rift-v49-audited-pull.js",
+      "bytes": 6006,
+      "sha256": "31220c54df1b5502465abbbdf4e2409f8a72d59f69253fb044a4d0b7e5ab1cf6"
+    },
+    {
+      "path": "web/rift-v49-bounded-approach-movement.js",
+      "bytes": 3259,
+      "sha256": "31667aba62f0b0a719781333f6f8aef79ffd6f43ea980fb92a98129416ab1679"
+    },
+    {
+      "path": "web/rift-v49-bounded-approach-trial.js",
+      "bytes": 4079,
+      "sha256": "1d6fc54ffe8ed477ce2aa9a4e8ac661371292b695648c44c9c7d521590aaa316"
+    },
+    {
+      "path": "web/rift-v49-browser-inputs.js",
+      "bytes": 3311,
+      "sha256": "3cf5c648e7e0a3f54f104f67bcf2f2e80d32140be15eea7dde8a9036d02c8e25"
+    },
+    {
+      "path": "web/rift-v49-camp-controller-trial.js",
+      "bytes": 3020,
+      "sha256": "7e084ac846f3221021431e9ba6714d0a1b0b9c604decb9b9b3c88c3cd90859c6"
+    },
+    {
+      "path": "web/rift-v49-camp-observer.html",
+      "bytes": 1807,
+      "sha256": "fc1627fdcab376f98f78a1b9b5e0795233b9934439565529baf527232ce1ef45"
+    },
+    {
+      "path": "web/rift-v49-camp-observer.js",
+      "bytes": 7708,
+      "sha256": "7e1353908947878d935f3d62197b0eb5b725992b865c4b3aded6556e6a631f20"
+    },
+    {
+      "path": "web/rift-v49-cap-body-study.js",
+      "bytes": 2396,
+      "sha256": "d3756a66529be48207c0e19f707cd87bf2630a8c7ea1d54b84fcca34198ed662"
+    },
+    {
+      "path": "web/rift-v49-cleanup-visual.html",
+      "bytes": 1643,
+      "sha256": "2e93e8e460a63932e61dd4e5a398daa4938d4d2a5de522f02c8d763e9f106c7a"
+    },
+    {
+      "path": "web/rift-v49-cleanup-visual.js",
+      "bytes": 6783,
+      "sha256": "b9c70945cd61246dbc9ca2c6524fca27af47a9c9792ac3b8a310f571c36d4f13"
+    },
+    {
+      "path": "web/rift-v49-collider-isolated-trial.js",
+      "bytes": 416,
+      "sha256": "adf345bf54a4f335fa3bb1b9a2510c9414d39c83b4740210e3d6135762c9d948"
+    },
+    {
+      "path": "web/rift-v49-contact-timed-trial.js",
+      "bytes": 3710,
+      "sha256": "d591dcf236fff32d5a9317512d1900e815bc7bd7d508576bc94124b0ffa60169"
+    },
+    {
+      "path": "web/rift-v49-containment-audit.js",
+      "bytes": 3278,
+      "sha256": "bb2feceba56a6f983dfdb1228df1715bd48dfc512a8a8ff237ae5caf87bf4b44"
+    },
+    {
+      "path": "web/rift-v49-containment-spawn-trial.js",
+      "bytes": 826,
+      "sha256": "9bc390a3874be8c75b4d31f7c011ce316da59d147add6731928ec2a47d0e0694"
+    },
+    {
+      "path": "web/rift-v49-flower-inputs.js",
+      "bytes": 3402,
+      "sha256": "d100bb0fdde17465ec9b321de4fc6aabd58779312f2b391d3b25f13dae1f4f12"
+    },
+    {
+      "path": "web/rift-v49-flower-visual.html",
+      "bytes": 1696,
+      "sha256": "aa3ff540ad2adde0a4cc17a8566fe04fa6fffb87b16a9313e68067e167034c66"
+    },
+    {
+      "path": "web/rift-v49-flower-visual.js",
+      "bytes": 6792,
+      "sha256": "f1e7f0ce0d56ffbd1604f6b1b6464b0577df21a031683da8478093275d62d33a"
+    },
+    {
+      "path": "web/rift-v49-forkable-pull.js",
+      "bytes": 6258,
+      "sha256": "cc5a1d64aaeb57c665d8ea6a8108956ebb651b8389c95d15a0699bdaa2455e78"
+    },
+    {
+      "path": "web/rift-v49-frame-driver.js",
+      "bytes": 968,
+      "sha256": "ec57c6a6678bb8a9e7f0c857c4ed14aec6e9aa9a9709ed8dec4381fd39c70e34"
+    },
+    {
+      "path": "web/rift-v49-guarded-session.js",
+      "bytes": 663,
+      "sha256": "bee8f748628ddf911fd81f81865fea662d106eb42e6a91812245ec823298e10a"
+    },
+    {
+      "path": "web/rift-v49-guarded-visual.html",
+      "bytes": 1643,
+      "sha256": "004a2ba41b8ae1e044bf9ee9603e9f69dc8d977ba01c3fd7ea12c04da3009a43"
+    },
+    {
+      "path": "web/rift-v49-guarded-visual.js",
+      "bytes": 6777,
+      "sha256": "99d4f48109e457f08119c036024a8922bd99e05f808c9768953c6d7e2037172e"
+    },
+    {
+      "path": "web/rift-v49-home-validated-trial.js",
+      "bytes": 4044,
+      "sha256": "206a89ee225db9221f484d2a1cb884982fb10f22bc29c2e3f7b0fdc4fd9c3a7f"
+    },
+    {
+      "path": "web/rift-v49-hook-collider.js",
+      "bytes": 1567,
+      "sha256": "73710fa4996de71a577f84f3834e458c98c7831e9dc620a2194aa3299d5a01b5"
+    },
+    {
+      "path": "web/rift-v49-hook-foliage-policy.mjs",
+      "bytes": 1646,
+      "sha256": "301a6c75fb06220787555862039490c5c750cc44dbb8bf61045ecb39b75824e5"
+    },
+    {
+      "path": "web/rift-v49-input-scaled-movement.js",
+      "bytes": 2655,
+      "sha256": "109f426e8d2875571877de2bcafb1cdc4ba14ca1c1f0ac726e728f0e768abe10"
+    },
+    {
+      "path": "web/rift-v49-integrated-trial.js",
+      "bytes": 2659,
+      "sha256": "2a01c12a28f111373a49348dc041b7a36fc9f7dc3fd8707d414a9220ead04048"
+    },
+    {
+      "path": "web/rift-v49-isolated-collider.js",
+      "bytes": 2315,
+      "sha256": "d2daf918e8d2ae83bbd9aa2c0a01c257927377c8385e4113ea4935cd104403db"
+    },
+    {
+      "path": "web/rift-v49-isolated-player-spatial.js",
+      "bytes": 1369,
+      "sha256": "2ab5f841abaca418b015142a439a4d46f56bd36049c2588690d851ee3385046e"
+    },
+    {
+      "path": "web/rift-v49-keyboard-input.js",
+      "bytes": 960,
+      "sha256": "9652ed9b6695e55bf284140e529ede3569e4a1f52c6d7e5d4ec0c15843276292"
+    },
+    {
+      "path": "web/rift-v49-keyboard-visual.html",
+      "bytes": 1527,
+      "sha256": "559919a5cfed10fc11e53835a3be12a86aefe2e2a598f9543ed27091915ca4b5"
+    },
+    {
+      "path": "web/rift-v49-keyboard-visual.js",
+      "bytes": 5915,
+      "sha256": "30a47adb29b4a8af2c4cc9265345179638a69bef062792b614507b56535ce4be"
+    },
+    {
+      "path": "web/rift-v49-map-inspection.js",
+      "bytes": 818,
+      "sha256": "26ae38c96f8db0491238496a8bbe2dbf3af6ef751353dfe0d981118e7b8e8ba4"
+    },
+    {
+      "path": "web/rift-v49-mesh-section.js",
+      "bytes": 3170,
+      "sha256": "3f2bb8bab683060547f88d06fa9e7a81d443c724a9499221e6b92310b49fc8ed"
+    },
+    {
+      "path": "web/rift-v49-offline-inputs.mjs",
+      "bytes": 1665,
+      "sha256": "8a6f28913712e372f93bd89f91fc8d51a2656f00211db96a77e0e7ec644f30be"
+    },
+    {
+      "path": "web/rift-v49-pinned-cap-study.js",
+      "bytes": 4158,
+      "sha256": "88c0763173c71c72b8ce4ca03850ae2fff3739c5089c488ff80d53536b81425f"
+    },
+    {
+      "path": "web/rift-v49-pinned-floor-study.js",
+      "bytes": 4609,
+      "sha256": "7910961d0d1e6f8b1958ccac824a33afc47dd6d4137d61046d4c83b53d04ab45"
+    },
+    {
+      "path": "web/rift-v49-player-spatial-trial.js",
+      "bytes": 1144,
+      "sha256": "59628afb4dcc992de353ce535abb4aad2b4de7e89553fc88413ae06df278c6ca"
+    },
+    {
+      "path": "web/rift-v49-pointer-aim.js",
+      "bytes": 1151,
+      "sha256": "8629071a5e614dd3da7fc03f713be9ead10c109c413a3108357d2e7538f528e3"
+    },
+    {
+      "path": "web/rift-v49-pointer-visual.html",
+      "bytes": 1643,
+      "sha256": "9c86209e1712bd16b6f7ffeae381da5d5c07fcad78a22fa11d5c8920a3782476"
+    },
+    {
+      "path": "web/rift-v49-pointer-visual.js",
+      "bytes": 6319,
+      "sha256": "5165088182fc4b253ba4b4c2f272c2a6fc08ed7b887bab40f1d03e27f873a2ba"
+    },
+    {
+      "path": "web/rift-v49-red-floor-policy.js",
+      "bytes": 3457,
+      "sha256": "caf9dcb0aba35dc2745b3b38987d6ec8dfcf17df6644d4546dceb5211020a49d"
+    },
+    {
+      "path": "web/rift-v49-reentrancy-guarded-trial.js",
+      "bytes": 845,
+      "sha256": "480657416d69aad37dcd88627db5efcad491762435435b187d001cad9eb64719"
+    },
+    {
+      "path": "web/rift-v49-resilient-session.js",
+      "bytes": 1861,
+      "sha256": "292f346c647e82dc3de0edcecc9ba0a7ccc9db5a26ac9e6a2c71629fafe873e3"
+    },
+    {
+      "path": "web/rift-v49-resilient-visual.html",
+      "bytes": 1528,
+      "sha256": "3895273f90ee5afaf1ff669eceb746c50a46f77e37de0417a433eca5d2f8b030"
+    },
+    {
+      "path": "web/rift-v49-resilient-visual.js",
+      "bytes": 5979,
+      "sha256": "158d613080fa0464ea6f7ba0cf9aa5a3b32a5dbe752ecb3849bca5d5dd9feb75"
+    },
+    {
+      "path": "web/rift-v49-respawn-trial.js",
+      "bytes": 5612,
+      "sha256": "e6b8f71b699e14eee5df285e7fab01313c3d7295cb0511210ec7cea8434b8750"
+    },
+    {
+      "path": "web/rift-v49-scene-adapter.js",
+      "bytes": 2631,
+      "sha256": "36e90f6428e78bb3a02a87c6eca6c189abb2e3336c190b11fe10d3ed548080ea"
+    },
+    {
+      "path": "web/rift-v49-scheduled-pull.js",
+      "bytes": 6724,
+      "sha256": "892b5c77b6229cafe41fdfa50f5e370844295687ff1ec82343cbe6ea490260db"
+    },
+    {
+      "path": "web/rift-v49-skill-presentation.js",
+      "bytes": 2042,
+      "sha256": "e3e7822b4c1af1851621d056de6a114900babb64a0fdcb2c59032c0baf1d0c90"
+    },
+    {
+      "path": "web/rift-v49-skill-visual.html",
+      "bytes": 1628,
+      "sha256": "15889f04fd49ee3534d662b8ed4d7032179cb6a55258d020b1241f995bf641e2"
+    },
+    {
+      "path": "web/rift-v49-skill-visual.js",
+      "bytes": 6307,
+      "sha256": "f8664bcfe49351061d889185731c198f6a48be06bd28701ef07b2d9216878c8a"
+    },
+    {
+      "path": "web/rift-v49-spawn-diagnostics.js",
+      "bytes": 3576,
+      "sha256": "2ee0f43c8c39aa864c62fa4e6076aeefd71fbc0e7accfb041c6dda33457fcbbb"
+    },
+    {
+      "path": "web/rift-v49-spawn-search-trial.js",
+      "bytes": 2895,
+      "sha256": "78efd1896fd8ddb577d8cfda453e9f4bcdd0f6a4b4856e69fb41c490073b19d0"
+    },
+    {
+      "path": "web/rift-v49-static-component-index.js",
+      "bytes": 2205,
+      "sha256": "c804f2e5b14c68095b18bd5fedad2da6f35344688a4716a4d0f5544bf8683155"
+    },
+    {
+      "path": "web/rift-v49-stationary-fallback-trial.js",
+      "bytes": 925,
+      "sha256": "7123d8e8ea996f18d0180a2cb6c6eabcb3cad1ba424327f269d768480c25a3bb"
+    },
+    {
+      "path": "web/rift-v49-strict-containment-spawn.js",
+      "bytes": 922,
+      "sha256": "b0ef237651fd1ecd349d267fdf344e36130f79b19382c1513a70ffa06af120c6"
+    },
+    {
+      "path": "web/rift-v49-timed-actor.js",
+      "bytes": 2026,
+      "sha256": "dc622a6a67342404be581ee9e893193f041a0122f9d03f1a9cd5288f73e93389"
+    },
+    {
+      "path": "web/rift-v49-timed-trial.js",
+      "bytes": 3641,
+      "sha256": "22b75f3c960bfcfb1a0346b1ed1482afcfdb8ab85495195b300e0d49753bedd0"
+    },
+    {
+      "path": "web/rift-v49-top-cap-study.js",
+      "bytes": 3878,
+      "sha256": "d945014067fb5f0afda289ceb018eae27352835d4d69d5f925bd5fddb5aef0d6"
+    },
+    {
+      "path": "web/rift-v49-uncertainty-corridor.js",
+      "bytes": 1359,
+      "sha256": "98307acb4ef0607df12161fc663307a7cf345903c23d0f4380c36d50f5c6bf89"
+    },
+    {
+      "path": "web/rift-v49-viewport-visual.html",
+      "bytes": 1644,
+      "sha256": "3ceb197e1457d1bbf243b76b5d0dc41d15647ec3ad1214c7abbf02c4b359a610"
+    },
+    {
+      "path": "web/rift-v49-viewport-visual.js",
+      "bytes": 6681,
+      "sha256": "2ca06bf40a2e6e97ce92be0d5165765afa6316da9bbf895a0417af6d5fc04f41"
+    },
+    {
+      "path": "web/rift-v49-viewport.js",
+      "bytes": 1390,
+      "sha256": "6730d384ac90a34347a7032afe20e532ca79ac5908ed87d136b0adc02ce67095"
+    },
+    {
+      "path": "web/rift-v49-visual-session.js",
+      "bytes": 1172,
+      "sha256": "dac10dae97401db361db1e8e2fa767924c1afed6b64810d8df5be46072bf8a55"
+    },
+    {
+      "path": "web/rift-v49-visual.html",
+      "bytes": 1518,
+      "sha256": "962aa80128070b2738e6530bf0039b10e1a6efd54f76a90d21badac2daf22684"
+    },
+    {
+      "path": "web/rift-v49-visual.js",
+      "bytes": 5817,
+      "sha256": "5f29d1810b0151771f77115f60c20f94a9830b67ac57ddfbca29125284bc14a9"
+    },
+    {
+      "path": "web/rift-v49-wall-approach-movement.js",
+      "bytes": 3153,
+      "sha256": "59fdd7b5e9222ba030ff43f8d4b11859c0d59a7ff911f2fa9076512accadb025"
+    },
+    {
+      "path": "web/rift-v49-wall-approach-trial.js",
+      "bytes": 4064,
+      "sha256": "bc80bda2c522dbf4cd598b17abe10309d6feeb22eeeb3d171ad33904318fdd0d"
+    },
+    {
+      "path": "web/rift-v49-wall-contact-trial.js",
+      "bytes": 3710,
+      "sha256": "deafeca0f56851c11dcea335b23234be068b55c692f467b037b185b02687688c"
+    },
+    {
+      "path": "web/rift-v49-wall-timed-pull.js",
+      "bytes": 7233,
+      "sha256": "7b6ab74eef72c5319f70824b8df505f1cf02ca3ce9f83282a0e07734f80cefcd"
+    },
+    {
+      "path": "web/skill-animation-manifest.js",
+      "bytes": 371,
+      "sha256": "a03106ece62708edf107652803dbdf586025381cbb0fcd3af644c746ebce8a2f"
+    },
+    {
+      "path": "web/skill-animation.js",
+      "bytes": 12148,
+      "sha256": "3bf4bf077e2429ec9dcf55d1352ad31007429f99570a71ba81a646382ce91cdc"
+    },
+    {
+      "path": "web/skill-audio.js",
+      "bytes": 1797,
+      "sha256": "60d9e3f9a52d2dd5efa336b85aa386e42cc562d946815bb0188961e9a6715dfb"
+    },
+    {
+      "path": "web/skill-controller.js",
+      "bytes": 6511,
+      "sha256": "6767addee2a13f745d089b91431bfd22b45915e285eb662e899c63bf3b672840"
+    },
+    {
+      "path": "web/skill-timeline.js",
+      "bytes": 2386,
+      "sha256": "d220732758be1f4d08c7e196ff2ebeb1e15e171b75881e3bd8d0af8cf161b07a"
+    },
+    {
+      "path": "web/skill-vfx.js",
+      "bytes": 27195,
+      "sha256": "35e80f1193390f844bdad3b9cc8bc097fcf9a58e323d3e835276262f6c015a5c"
+    },
+    {
+      "path": "web/style.css",
+      "bytes": 29887,
+      "sha256": "ff4b6f373cc8411dcfec9efbb53adeaf9258d37c185462fcee32f36127f48a80"
+    },
+    {
+      "path": "web/target-models.js",
+      "bytes": 1962,
+      "sha256": "2c459c55328cc4529ce44956b8c7f419aa239d5ff3f80a3d730871fd90224acc"
+    },
+    {
+      "path": "web/tests/app-button-repeat.test.js",
+      "bytes": 6997,
+      "sha256": "90cccbd8d78c91d100a62ceacfffe1145937745ff18bbf5d0bec131652f251af"
+    },
+    {
+      "path": "web/tests/blitz-materials.test.js",
+      "bytes": 3844,
+      "sha256": "635cd7370d0eaf9781da335e54a5396a12d0ebf51b08f18e2fd0075ffc241a23"
+    },
+    {
+      "path": "web/tests/bot-render-deferral.test.js",
+      "bytes": 6829,
+      "sha256": "949023439a1a6ce7bc8223e03f0b851a567d30af551d88b93b7d3864a8ecf00d"
+    },
+    {
+      "path": "web/tests/bot-rest-policy-harness.test.js",
+      "bytes": 3593,
+      "sha256": "3e83ec6006701bd79452d60c326ba2357ec949b1dbf7a55331b2c36060816669"
+    },
+    {
+      "path": "web/tests/build-runtime.test.js",
+      "bytes": 7355,
+      "sha256": "a3d6fdb23c67ee7925345093aa02763e7384e187d64195a71e1fb6f845304d7c"
+    },
+    {
+      "path": "web/tests/camera-column-runtime.test.js",
+      "bytes": 11026,
+      "sha256": "0d8ef75dcf02f8d4f6d79ae989019c3124afdf73b02d7b36e18065512a25ed1f"
+    },
+    {
+      "path": "web/tests/camera-rig.test.js",
+      "bytes": 3323,
+      "sha256": "e90ec25a1205888335bb3151a8fb2074efefda666345403c500354b59f5c8949"
+    },
+    {
+      "path": "web/tests/cannon-rear-crest.test.js",
+      "bytes": 3677,
+      "sha256": "4d410e7d1fb50b3743c437e60ae8202c0742b3c86f17da1417748527c4c46c5d"
+    },
+    {
+      "path": "web/tests/cannon-rear-shield.test.js",
+      "bytes": 5343,
+      "sha256": "63baf7d9f373d2ce9c82d9dbb36cabd528bde5dc1d48a1c0379f38649fa9ec56"
+    },
+    {
+      "path": "web/tests/cannon-visor-profile.test.js",
+      "bytes": 12350,
+      "sha256": "8cd34cbccf49098c8a67fc2288a99f57c3b1260fd30520c8bda868f3bd11d899"
+    },
+    {
+      "path": "web/tests/cannon-wheel-detail.test.js",
+      "bytes": 6998,
+      "sha256": "33b14f162ce84a3a88a4b599d51e5b3b5d3ebdb0344051c4ae85de3fb05d16ec"
+    },
+    {
+      "path": "web/tests/capture-lifecycle.test.js",
+      "bytes": 5225,
+      "sha256": "2d609fa81004e0c27bc212d2e043d9041f2fd5863ee753f615098ff5d1f13e40"
+    },
+    {
+      "path": "web/tests/capture-release-runtime.test.js",
+      "bytes": 2668,
+      "sha256": "729512e77670aa8d34f1fbfe116c0c5ca593b311ee80940abfa8005eb6b71f3c"
+    },
+    {
+      "path": "web/tests/character-grab-contact.test.js",
+      "bytes": 4968,
+      "sha256": "7e6cb6a3bf81e0150df18adcef1ee6b0d659f5c2283a1b19d8d82865d54d11a2"
+    },
+    {
+      "path": "web/tests/combo-practice-runtime.test.js",
+      "bytes": 8259,
+      "sha256": "aea0d8fd7649495b24e17cfae0c58ec72661b148ac3cc5f9849717d169148e0f"
+    },
+    {
+      "path": "web/tests/combo-practice.test.js",
+      "bytes": 2712,
+      "sha256": "e4ed0a0c981b6355cd8ea23aa186bf3d20b490bcc2a70cda3166aa8d46d7e946"
+    },
+    {
+      "path": "web/tests/controls.test.js",
+      "bytes": 11600,
+      "sha256": "6d760ff5b4354d88f49561544efb251ce6aaa92fb3bf8cad4fcbf51eb7d88f04"
+    },
+    {
+      "path": "web/tests/core.test.js",
+      "bytes": 3485,
+      "sha256": "8e76928d66dadfe262392c19e94eced905df0db82325512fcf65dd96788a000b"
+    },
+    {
+      "path": "web/tests/deferred-audio-startup.test.js",
+      "bytes": 1932,
+      "sha256": "a327e7e8e9562bc44d9ab34c2d5c0fa796c675064e4e2204351bb695b6f56635"
+    },
+    {
+      "path": "web/tests/deferred-capture-denial.test.js",
+      "bytes": 1774,
+      "sha256": "95cc970d7bd4cb7fec8aca8d5523691971c91372c8fd3b101063b491a8224705"
+    },
+    {
+      "path": "web/tests/deferred-startup.test.js",
+      "bytes": 9365,
+      "sha256": "f598335161dbadd56d7251acc76afbe6d78c7d5f6268da724b06b7ad4b84eb15"
+    },
+    {
+      "path": "web/tests/desktop-q-ready.test.js",
+      "bytes": 6218,
+      "sha256": "5776b4a39e9f2ce8e1af1a46c6d314c40b11649114a001412621cad118edbe17"
+    },
+    {
+      "path": "web/tests/duel-airborne-skill-reaction.test.js",
+      "bytes": 2260,
+      "sha256": "32e150f4db75d1a93d2fa47af696da2a295049ef871d579628df7e4c394d60c0"
+    },
+    {
+      "path": "web/tests/duel-authority-independent.test.js",
+      "bytes": 7493,
+      "sha256": "2c6db9b8d38afd69f7f8a8a22ab65e50d964479e07cbf9bd218f82c344fd728f"
+    },
+    {
+      "path": "web/tests/duel-avatar-skills.test.js",
+      "bytes": 6003,
+      "sha256": "166ac2dded9cdcdb003aae75451031fd4170bbae0fe75129dc75a0eb0f2dcaf0"
+    },
+    {
+      "path": "web/tests/duel-bot-inputs.test.js",
+      "bytes": 11783,
+      "sha256": "b19c1f0fb08f3dec4f681a3b39d71be6e6472b549d872526daab0f7435feeb9f"
+    },
+    {
+      "path": "web/tests/duel-bot-round-seed.test.js",
+      "bytes": 1917,
+      "sha256": "9332cafb0193afabdc67d156d9f5a37c8aa1c23ad57e107fa5dacada01a756f8"
+    },
+    {
+      "path": "web/tests/duel-bot-skills.test.js",
+      "bytes": 4343,
+      "sha256": "cc16bac75ba09616572a38bd82f5caec814a9ecf3d6e6215562409085025a4ad"
+    },
+    {
+      "path": "web/tests/duel-bot-spacing.test.js",
+      "bytes": 6926,
+      "sha256": "cd582d9b12311ba484ccd62de08170f17ece15769e899e13447ae25f73839e2c"
+    },
+    {
+      "path": "web/tests/duel-close-grab.test.js",
+      "bytes": 3103,
+      "sha256": "d910542dec74f7468b2b02bf4926513fdc5dc041b8148992aa1a9601abd60b40"
+    },
+    {
+      "path": "web/tests/duel-feedback-priority.test.js",
+      "bytes": 1431,
+      "sha256": "68186f8c987eefdcc16b38b13a30ffc5ab7763aafaeea99dc5469bcca252f6d7"
+    },
+    {
+      "path": "web/tests/duel-grab-delay-runtime.test.js",
+      "bytes": 5765,
+      "sha256": "888b353eb9ac8c2c180ec6804f9fb1fc1fc509af09b66f5d884392f2ba0cdf6e"
+    },
+    {
+      "path": "web/tests/duel-held-joystick.test.js",
+      "bytes": 12310,
+      "sha256": "f4dd93b02b6cba0c3e9b8722e8a45acbe9c91d5f05373d9ada6787f69321de1f"
+    },
+    {
+      "path": "web/tests/duel-held-movement.test.js",
+      "bytes": 11860,
+      "sha256": "457383ea58e13b15d9794f080054fed0d555c0ca2395f26e97960416bdbb53f4"
+    },
+    {
+      "path": "web/tests/duel-hold-lifetimes.test.js",
+      "bytes": 6443,
+      "sha256": "5a903a145c27c81d67dc13684f7ba123636b4b1ce7a9b1f1b1fbeabc04da1ff5"
+    },
+    {
+      "path": "web/tests/duel-hook-contacts.test.js",
+      "bytes": 22043,
+      "sha256": "576487792f292ecb5b32a27db6cf69feba95599516da5410142e94b46e4b24e9"
+    },
+    {
+      "path": "web/tests/duel-human-pose-performance.test.js",
+      "bytes": 2230,
+      "sha256": "3f685a7a96652c6f2d75d58c5cd650ab9785d62ca2f1cf8964fec28432efae5b"
+    },
+    {
+      "path": "web/tests/duel-impact-vfx-runtime.test.js",
+      "bytes": 1244,
+      "sha256": "c4d8f6c05b024152a2caaeb8e16f219cbab4fa177fc940e73db547ca4c0ea999"
+    },
+    {
+      "path": "web/tests/duel-offensive-validation.test.js",
+      "bytes": 5737,
+      "sha256": "cfbf2a37ba4bffd18f136a33de0c18a4ad3ec97942260215c011a3f075bd38e7"
+    },
+    {
+      "path": "web/tests/duel-pull-path.test.js",
+      "bytes": 12735,
+      "sha256": "5cc20701abe3e1f4cf0ec291c05452576446e1cfa76460758dbcba9006876410"
+    },
+    {
+      "path": "web/tests/duel-pull-runtime.test.js",
+      "bytes": 3819,
+      "sha256": "7a224f8a532826ed786d3f4704488805f713a9198fd21185692d03d2d9fd03ce"
+    },
+    {
+      "path": "web/tests/duel-punch-readiness.test.js",
+      "bytes": 4429,
+      "sha256": "f3a9df38c7d7631de36eaeb5c0dcfb1b7aa6d7ebac30db5a9a09beab68fd49dd"
+    },
+    {
+      "path": "web/tests/duel-r-aim-independence.test.js",
+      "bytes": 5615,
+      "sha256": "eede9579afa29572892c9c1ee5eabcf81d511537324201f23742414c2f18d51e"
+    },
+    {
+      "path": "web/tests/duel-r-valid-opportunity.test.js",
+      "bytes": 3720,
+      "sha256": "57f8cd41fedb8b7e30c288d0e7976307dfe74417ef70dbbd135f1943f15de737"
+    },
+    {
+      "path": "web/tests/duel-recovery-copy.test.js",
+      "bytes": 6240,
+      "sha256": "232980e4162d93805d92e6a4096a64c2ff91845087b1beb4bdb6242e68c516b2"
+    },
+    {
+      "path": "web/tests/duel-result-clock-lifecycle.test.js",
+      "bytes": 4657,
+      "sha256": "aa8e4b3bfbf89a9d9c6f33a53dc3128ca590d4b37b39d9f61093daabb7046ba4"
+    },
+    {
+      "path": "web/tests/duel-result-clock-presentation.test.js",
+      "bytes": 2517,
+      "sha256": "2921705c244a15dfd71d1d20b1b20c7483a2f9b9e89cc81f91ec0f7f33022e87"
+    },
+    {
+      "path": "web/tests/duel-result-clock.test.js",
+      "bytes": 2640,
+      "sha256": "b4668aea8be520499b5707c2c3787646f0f07a8ded8b18b8d785bca5bf346b98"
+    },
+    {
+      "path": "web/tests/duel-round-rules.test.js",
+      "bytes": 19574,
+      "sha256": "01d49b6f3acd2da9d7b13c05177668f38defe6700f7220515c539496ca1de4b3"
+    },
+    {
+      "path": "web/tests/duel-runtime.test.js",
+      "bytes": 12559,
+      "sha256": "5b4a88e1e23d5de55651c2db50faa886257c9d1e73ede71b87cec16eec0c0265"
+    },
+    {
+      "path": "web/tests/duel-score-particle-position.test.js",
+      "bytes": 1819,
+      "sha256": "c3519b558e0b4e96fb384edcc3ab665db8f76101f7a120730a7b503aab224d18"
+    },
+    {
+      "path": "web/tests/duel-search-inputs.test.js",
+      "bytes": 5599,
+      "sha256": "343c469ba022b8c33d916d6e2a4d8dfecf8e315542c506fa6383b09412490ecc"
+    },
+    {
+      "path": "web/tests/duel-search-runtime.test.js",
+      "bytes": 3927,
+      "sha256": "a6c98a37b39253e0b047403572b4cd87e32ada31d6a1bfd5f12d4d18ba5f4bf9"
+    },
+    {
+      "path": "web/tests/duel-simulation.test.js",
+      "bytes": 5244,
+      "sha256": "74027fa7a13c9be93fef5130684576ae3534a46819c37867f28e61d54efad1a8"
+    },
+    {
+      "path": "web/tests/duel-skill-independent-runtime.test.js",
+      "bytes": 3305,
+      "sha256": "ae4459e2b60d3486b5709b0660a2ea8c17fb4a4fbaabfca72ed46aa05ff1f460"
+    },
+    {
+      "path": "web/tests/duel-skill-rest-reuse.test.js",
+      "bytes": 17986,
+      "sha256": "f8840c98898a9e13d69efa351be0a8d55872bf150fcd8f9f7bca13d5b0f62ef3"
+    },
+    {
+      "path": "web/tests/duel-skill-timer-boundaries.test.js",
+      "bytes": 3183,
+      "sha256": "41be381b12ede08d32a1627cbce75223ccae0b09ab5f95c894f00f0b541f6431"
+    },
+    {
+      "path": "web/tests/duel-socket-performance.test.js",
+      "bytes": 6116,
+      "sha256": "c0f25fccecc522e18f7dadba4962d5f3baba33873b20148d91bbbf3187e78d45"
+    },
+    {
+      "path": "web/tests/duel-touch-result-copy.test.js",
+      "bytes": 3006,
+      "sha256": "35385182a1a7f0c46e02343cce2eb11e5e58ef0ae585b904390e8934164cc787"
+    },
+    {
+      "path": "web/tests/duel-touch-skill-scoring.test.js",
+      "bytes": 1466,
+      "sha256": "d5a9b0684d795f19d363cf381740a9f6e74ca5f6aec192f8e53b86229c8d9745"
+    },
+    {
+      "path": "web/tests/duel-utility-controls.test.js",
+      "bytes": 6769,
+      "sha256": "82e103a20ae901422be16c2b59e0051db85619dee6d4f990c9dce4eb1080beba"
+    },
+    {
+      "path": "web/tests/duel-victim-lifecycle.test.js",
+      "bytes": 5420,
+      "sha256": "c3f3ae12c88daa075882160a24d8caf26fe8e678948bcd43fa073f2ce7fa6353"
+    },
+    {
+      "path": "web/tests/duel-victim-motion-20.test.js",
+      "bytes": 3650,
+      "sha256": "822e8fce8af54374f4ba87982a15d56f93a838243e57c3e7ad49cbaaa694510d"
+    },
+    {
+      "path": "web/tests/duel-victim-motion-60.test.js",
+      "bytes": 3650,
+      "sha256": "c8a5e34bac4bfceb9262df7e83092b3278ae0710be569dc0efd489cdcdfec446"
+    },
+    {
+      "path": "web/tests/duel-victim-ties.test.js",
+      "bytes": 3202,
+      "sha256": "eab2276b16864a9d1be756701a8e169eb28ca22e91eda1dd9dc36360c3ef5aa4"
+    },
+    {
+      "path": "web/tests/duel-zero-delta.test.js",
+      "bytes": 2900,
+      "sha256": "561be7df12ac2fa2f7a49b04708aa0c068220eaf769c6ab410f5b43f75c8095f"
+    },
+    {
+      "path": "web/tests/e-expiry-boundary.test.js",
+      "bytes": 4124,
+      "sha256": "348055c6fbbc10d334737612eb750b350c7216f172742ca5306339378f37e598"
+    },
+    {
+      "path": "web/tests/e-expiry-runtime.test.js",
+      "bytes": 1700,
+      "sha256": "1a3475c330cf1192573b7bc873569d928ec08a1b2039d7e127a7ef82650b3cb8"
+    },
+    {
+      "path": "web/tests/e-recovery-policy.test.js",
+      "bytes": 1775,
+      "sha256": "c56a91abfa2207eaaf7b8fcd90363662a8b4dca314b60bfeacae5605e4e3d036"
+    },
+    {
+      "path": "web/tests/e-strike-recovery-runtime.test.js",
+      "bytes": 2186,
+      "sha256": "55efa31ff3c47508802b8560420a1af6331b660f14f577428e15b908696fcedc"
+    },
+    {
+      "path": "web/tests/e-strike-recovery.test.js",
+      "bytes": 4952,
+      "sha256": "791ea77462b1a31efd0125d390540ddbf49a374b598955ed7ee5ba991887b043"
+    },
+    {
+      "path": "web/tests/e-w-held-1.test.js",
+      "bytes": 779,
+      "sha256": "aa7ab1bbcdc24aace94ef37bcc9f95cc530e9bf7f976553eb9e249373b1040bd"
+    },
+    {
+      "path": "web/tests/e-w-held-2.test.js",
+      "bytes": 737,
+      "sha256": "56744986fe27e3c933e45c4cd4b9ba82d797dea72569e928b522a0e31a8c5c34"
+    },
+    {
+      "path": "web/tests/e-w-held-3.test.js",
+      "bytes": 317,
+      "sha256": "f58e7076b1b042c94bb16034e56cea2ad4ce36ef3810aaff3258819bd6b5b0a3"
+    },
+    {
+      "path": "web/tests/e-w-held-4.test.js",
+      "bytes": 870,
+      "sha256": "e8ff827faefada5a6833adccda27ba9959a799739c8b73b4cc9c46c7ba837a1b"
+    },
+    {
+      "path": "web/tests/e-w-held-5.test.js",
+      "bytes": 433,
+      "sha256": "e7990c50e930aee2698023ff4054cc2c99a16221222a487a478319650c9941b7"
+    },
+    {
+      "path": "web/tests/e-w-held-6.test.js",
+      "bytes": 769,
+      "sha256": "e53e33c04b25daa7ac2bb292b54c96509e02b970e0153a5284f992a0ec974148"
+    },
+    {
+      "path": "web/tests/e-w-held-7.test.js",
+      "bytes": 760,
+      "sha256": "c7f65017de13a8f523a87b58ca7d63bfbee804a257ff37dffb0131bfee3ef185"
+    },
+    {
+      "path": "web/tests/e-w-held-8.test.js",
+      "bytes": 765,
+      "sha256": "31df1ddcc93d6d3fc819c1018dc1452e4b019058972b0874b9bc2ef6e0ba1f27"
+    },
+    {
+      "path": "web/tests/e-w-held-clock.test.js",
+      "bytes": 1365,
+      "sha256": "28aaf55ecb111809c0bb72772ec3bfd41866066cefab74c8f6c0915df3b9abf5"
+    },
+    {
+      "path": "web/tests/e-walk-layer.test.js",
+      "bytes": 6647,
+      "sha256": "e70b287628f1faa87f952a87b01d636622cc617219e5fd7800d5009d09833675"
+    },
+    {
+      "path": "web/tests/e-walk-runtime.test.js",
+      "bytes": 7956,
+      "sha256": "fb4979a00f5b66eff1f5148a4a11217dcd6425d08d87104d5c7a129844d47e5b"
+    },
+    {
+      "path": "web/tests/effect-visibility.test.js",
+      "bytes": 1961,
+      "sha256": "86f8318b3d92a3c328ea0d61d6397bfdabf7f976bbf8f1742b3b56e1107b15b0"
+    },
+    {
+      "path": "web/tests/fixtures/duel-bot-inputs-v2436.js",
+      "bytes": 12479,
+      "sha256": "abf5bfe61f2b28a676a5f37ad406c2034077a6cbd283a085b5027f9c28c02c79"
+    },
+    {
+      "path": "web/tests/fixtures/e-w-baseline-v81.js",
+      "bytes": 98982,
+      "sha256": "2ff83436f549e2cd923fdb1e3a97157012148434d7cdb290568b9b0497d9f516"
+    },
+    {
+      "path": "web/tests/fixtures/fullbody-locomotion-v2413.js",
+      "bytes": 9993,
+      "sha256": "e633946830907676d9ffabe2e01d3ada0488e363c8054382bcad45d9706bc91d"
+    },
+    {
+      "path": "web/tests/fixtures/skill-animation-v0.24.48-baseline.js",
+      "bytes": 9785,
+      "sha256": "538647035fb4a187cd2a1f17987453ef3b9bfcca92c6793a90e808f06c704046"
+    },
+    {
+      "path": "web/tests/fixtures/skill-animation-v0.24.54-baseline.js",
+      "bytes": 10088,
+      "sha256": "81ff5629adb3ff234db41dffba6179b92c20c106802fd0d1c698f368c6585b68"
+    },
+    {
+      "path": "web/tests/fixtures/skill-controller-v2431.js",
+      "bytes": 3720,
+      "sha256": "8445ddd5eb492f9b6e485bd13d4b58628775941ad71ca9311c8cf66e8af58a37"
+    },
+    {
+      "path": "web/tests/fixtures/skill-vfx-v0.24.46-baseline.js",
+      "bytes": 23995,
+      "sha256": "5b74e5611e8f08704b1c430969e6fe43a0c2942c54e66cc5be439ed412a3c438"
+    },
+    {
+      "path": "web/tests/fixtures/skill-vfx-v0.24.48-baseline.js",
+      "bytes": 24377,
+      "sha256": "cc42c91e1666ccf65625cd2f059c2f151734dfa4b01062e8bbc2e097a0ede646"
+    },
+    {
+      "path": "web/tests/fixtures/skill-vfx-v0245-baseline.js",
+      "bytes": 23515,
+      "sha256": "1ab530a60cb060f9fecc848d1e01f5b02f0dc77b51cbb180a3f67e7196cf3722"
+    },
+    {
+      "path": "web/tests/fixtures/turret-view-v0.24.47-baseline.js",
+      "bytes": 7935,
+      "sha256": "07f7cdc8abf97f7591583de6b2c67d6d0216da96b3101bf10dd56c2aaf6021c8"
+    },
+    {
+      "path": "web/tests/flash-controller.test.js",
+      "bytes": 4609,
+      "sha256": "9d3cc003c4b82ca6d5072eac902acfcfc5e14cd2589ee7dabad0725a1ad07582"
+    },
+    {
+      "path": "web/tests/flash-controls15.test.js",
+      "bytes": 4734,
+      "sha256": "5309a415a4a9a3549cf98cd4d48bdf826d49702a667c5543ee1f0195eefb0827"
+    },
+    {
+      "path": "web/tests/flash-cooldown-boundaries-runtime.test.js",
+      "bytes": 2504,
+      "sha256": "dc248e256a1664bbf6be92d253dea20e02617bf15f8b7999c8b22594ff830da0"
+    },
+    {
+      "path": "web/tests/flash-cooldown-boundaries.test.js",
+      "bytes": 1422,
+      "sha256": "a98d50987985cc842e9617cf9d40b5b6fb4dde3e19ee8b1f10719a46bdbc1144"
+    },
+    {
+      "path": "web/tests/flash-frame-runtime.test.js",
+      "bytes": 2323,
+      "sha256": "a3e721c9cbcf07940328d05494566cc5f12bf22c427d193be805f2f1548926eb"
+    },
+    {
+      "path": "web/tests/flash-frame-vfx.test.js",
+      "bytes": 4760,
+      "sha256": "899bc696ffc5b0f30b1e9e6fb112e49db9a880617aab0c0ff95a7513a5432cde"
+    },
+    {
+      "path": "web/tests/flash-icon.test.js",
+      "bytes": 5575,
+      "sha256": "c547e7e2ab357699412e615b0314fcd4dd30777c1ac2c43047912ef2614c6489"
+    },
+    {
+      "path": "web/tests/flash-layout.test.js",
+      "bytes": 7738,
+      "sha256": "166794a2b683a61d17fe785033e0fe4823ad19a26c88184fd0041fcfe7630f74"
+    },
+    {
+      "path": "web/tests/flash-mode-records.test.js",
+      "bytes": 12688,
+      "sha256": "d619dbf6a09d8635a2ccd9942f2fae62dbd4ca754fd0480a7e98123dae0b0b5a"
+    },
+    {
+      "path": "web/tests/flash-readiness.test.js",
+      "bytes": 5578,
+      "sha256": "04b82348db49624616fd87df5c7da0ccba1069c4bf38704c20971a2d183d337f"
+    },
+    {
+      "path": "web/tests/flash-record-integration.test.js",
+      "bytes": 5231,
+      "sha256": "694f538935a9441d25ac5f7b683416d393e11be410ef4a91593bbfdbfe5d49bd"
+    },
+    {
+      "path": "web/tests/flash-recorded-audio.test.js",
+      "bytes": 13541,
+      "sha256": "8ac438345a271259c39be3efc0614c3f67cdb878a681fbadc1e411bea5f9641b"
+    },
+    {
+      "path": "web/tests/flash-runtime.test.js",
+      "bytes": 5570,
+      "sha256": "bec8ee9b669a1271e66462250f8714e4911a3961e544e6c9519e3036459db488"
+    },
+    {
+      "path": "web/tests/fullbody-locomotion.test.js",
+      "bytes": 10976,
+      "sha256": "ee34f0ec5335311857b4bd0ac756eb83bfbed3aa9dace19b27c83f67307cd13d"
+    },
+    {
+      "path": "web/tests/game-audio-integration.test.js",
+      "bytes": 33891,
+      "sha256": "f2f4f69218358158d75a33f431d4d8381667bcc1046ee40558f93e5c96ac7ec3"
+    },
+    {
+      "path": "web/tests/game-audio.test.js",
+      "bytes": 10753,
+      "sha256": "46d53673ad2c656fed8d44cb0691263a0e922ac765d80d9527df17782bfdaca1"
+    },
+    {
+      "path": "web/tests/guardian-crest.test.js",
+      "bytes": 10587,
+      "sha256": "f303a4eedfcd064a2ae0f6d187330cefa9ae3a8b3827059d79a80fbae774a5b2"
+    },
+    {
+      "path": "web/tests/guardian-face.test.js",
+      "bytes": 3753,
+      "sha256": "9b12904c0e522983e2b352cfb35aedfc432060ca1840cf3efdd7550a348826ae"
+    },
+    {
+      "path": "web/tests/guardian-rear-tabard.test.js",
+      "bytes": 3671,
+      "sha256": "a5cd6f22dfb4c99f1a34ab1de084a0385bec855564259da15f4819cb5010c552"
+    },
+    {
+      "path": "web/tests/hand-path-refresh.test.js",
+      "bytes": 2663,
+      "sha256": "1767f76dd2fe8ec874b5198607d5d9cfaaee26dca5639d0bf12b3fbbf3ebe99c"
+    },
+    {
+      "path": "web/tests/hand-path-runtime.test.js",
+      "bytes": 772,
+      "sha256": "baa695dc0f64bd86f4f93b2fbc2c0c23e4cf94055b1e0aae22697ff6cedf7551"
+    },
+    {
+      "path": "web/tests/hand-policy-harness.test.js",
+      "bytes": 1478,
+      "sha256": "33915f32960c1d6a607ad8d45edb5cd201a9279656e44dfcf5ca09e93b3f5579"
+    },
+    {
+      "path": "web/tests/head-reference-details.test.js",
+      "bytes": 2143,
+      "sha256": "551e93ad87f94ca37492f9303baa48a36fc76d248a143bb9baeb722fa76fdc74"
+    },
+    {
+      "path": "web/tests/helpers/approved-skill-clips.js",
+      "bytes": 1574,
+      "sha256": "f2b6d2bebf6629a3232669bf53c673cc5ac46d2ec41c0d245a1e87ae1fdfa18d"
+    },
+    {
+      "path": "web/tests/helpers/deferred-runtime-harness.js",
+      "bytes": 6034,
+      "sha256": "4ae36e97de08afb20a9b4d390535278d5106beaa599df39beff1e9769a4a7a21"
+    },
+    {
+      "path": "web/tests/helpers/duel-avatar-create-policy.js",
+      "bytes": 1780,
+      "sha256": "bf3c17271b9dcafa2390caf9f91c3c9e1c3d0d242b55c6df7ca3068fac6cdf7e"
+    },
+    {
+      "path": "web/tests/helpers/duel-feedback-priority-case.mjs",
+      "bytes": 5018,
+      "sha256": "2c600e6ec609757e1d16919256218ff00e498d2a061734d0614bf9dcb702348c"
+    },
+    {
+      "path": "web/tests/helpers/duel-human-pose-case.mjs",
+      "bytes": 3609,
+      "sha256": "41e9ad1612c19d87301b6d4fb181cb7a92eb9cbe43a05d11c941c4f4a6c431d1"
+    },
+    {
+      "path": "web/tests/helpers/duel-human-pose-harness.js",
+      "bytes": 9423,
+      "sha256": "4246ad7d0a3ccdcb6f26ffbe2eac94a88e10ecee74498fea0bc9ffd39044835a"
+    },
+    {
+      "path": "web/tests/helpers/duel-impact-vfx-case.mjs",
+      "bytes": 6281,
+      "sha256": "d97e6beff7d8257d88c735e613a092a93eb906315e58c8169cd23a5f0cc8dd55"
+    },
+    {
+      "path": "web/tests/helpers/duel-search-scenarios.js",
+      "bytes": 4175,
+      "sha256": "4e0bd69eb5b6e09e74d6d7d9533ba2aa6905b50a88e9904879adad24dc004619"
+    },
+    {
+      "path": "web/tests/helpers/e-recovery-policy.js",
+      "bytes": 2431,
+      "sha256": "aa13951d2ebd92c38f384a3d449206e3824fa06000d0ca260f4e8a553fb2c13b"
+    },
+    {
+      "path": "web/tests/helpers/e-w-held-capture.mjs",
+      "bytes": 961,
+      "sha256": "59f60b3cbe89d388fb9fe0440b9921e25cef0a971e4fa6bcd3854523460c895d"
+    },
+    {
+      "path": "web/tests/helpers/e-w-held-replay.js",
+      "bytes": 3508,
+      "sha256": "387b147cc05d2615014207c76f8c41b258cc72325a800ba6c0ce8690f6cb72e1"
+    },
+    {
+      "path": "web/tests/helpers/e-walk-baseline-case.mjs",
+      "bytes": 1536,
+      "sha256": "27dbe3d61ee524b56aef30724a7cc4d697b032f263660d4a4bbd6e81895f725d"
+    },
+    {
+      "path": "web/tests/helpers/hand-path-case.mjs",
+      "bytes": 3219,
+      "sha256": "684eca3bcdfba63f666c140aa4fb9d5e0dbdc1df662a57345ebb5f04a5af84bc"
+    },
+    {
+      "path": "web/tests/helpers/hand-path-harness.js",
+      "bytes": 3491,
+      "sha256": "d1add4fae702c1c052b35e26f764688e25cc6e635021dda3041b53e2977a6381"
+    },
+    {
+      "path": "web/tests/helpers/hook-matrix-harness.js",
+      "bytes": 2855,
+      "sha256": "734972d190932faff196796c8a378600baeacaf2cd460dc3ecc74570de54f530"
+    },
+    {
+      "path": "web/tests/helpers/locomotion-rig.js",
+      "bytes": 2026,
+      "sha256": "e5441529bb2624f4c65175dce36122883d378bc394a2b9505c469b31261ac77a"
+    },
+    {
+      "path": "web/tests/helpers/mobile-layout-model.js",
+      "bytes": 5669,
+      "sha256": "3822dfd847161a4157a43c6cd472227cf3b327f6230745622047b2d6058cfe4a"
+    },
+    {
+      "path": "web/tests/helpers/mobile-runtime-harness.js",
+      "bytes": 6687,
+      "sha256": "e275fba79cd4bfabfd20777443f5024ebb58c076d8eecf665917f8976160d10b"
+    },
+    {
+      "path": "web/tests/helpers/online-lobby-harness.js",
+      "bytes": 4515,
+      "sha256": "f58e9373144209649530c2de04c9759e28f8635e60be33bd0c84c828e620fda1"
+    },
+    {
+      "path": "web/tests/helpers/online-touch-harness.js",
+      "bytes": 5397,
+      "sha256": "f75435d09207810686841bd9e048d4e3793787327329c2f5cfe02002b5cde268"
+    },
+    {
+      "path": "web/tests/helpers/particle-runtime-harness.js",
+      "bytes": 5890,
+      "sha256": "0996551776281c651757c09a0a0c12c7766a95f6ecaa54b1dad2339cd31b0ac1"
+    },
+    {
+      "path": "web/tests/helpers/player-socket-harness.js",
+      "bytes": 2404,
+      "sha256": "7dabe94c1f6c5854399bd0c9a15ded71f03e73884757029d8a66b4ad0857a3be"
+    },
+    {
+      "path": "web/tests/helpers/pose-run-harness.js",
+      "bytes": 2016,
+      "sha256": "f3bc432e9c08ac089ecafef31ba88b42f53850ccd099267c636c6f72d0c1e3a6"
+    },
+    {
+      "path": "web/tests/helpers/projectile-prepare-harness.js",
+      "bytes": 2262,
+      "sha256": "e0421dcf21d529a6d2a69cc43eb4952145fdab116785a1702252f23d23516244"
+    },
+    {
+      "path": "web/tests/helpers/q-handoff-policy.js",
+      "bytes": 1407,
+      "sha256": "8ca7aa85b5bc6d99fd766c0f8d436e22682825a684fa3cead438e3cfd0173f90"
+    },
+    {
+      "path": "web/tests/helpers/r-locomotion-policy.js",
+      "bytes": 4179,
+      "sha256": "b3aac3e88fd15b002cad82df39bc29adc3c8a42d960210221be9561a75f856a2"
+    },
+    {
+      "path": "web/tests/helpers/r-runtime-composition-oracle.js",
+      "bytes": 5608,
+      "sha256": "3a74628c7a80bd3d83a17422e067949fe2c72dbc2ae8c73ff8d12f9cab99c2cd"
+    },
+    {
+      "path": "web/tests/helpers/runtime-harness.js",
+      "bytes": 6107,
+      "sha256": "5b43168b5215a7dd6d5017b6c0aee6e68c53302d43824b889997132313f0dab5"
+    },
+    {
+      "path": "web/tests/helpers/showcase-runtime-harness.js",
+      "bytes": 1013,
+      "sha256": "ff9d44422920c9728604fb7800216d1e6541ef23c366d95983d49bed32bd85ab"
+    },
+    {
+      "path": "web/tests/helpers/skill-startup-case.mjs",
+      "bytes": 4427,
+      "sha256": "aa747708623fe0337849cb03dcc029ab02faa5dd0f054ed6929477ae57e03d6d"
+    },
+    {
+      "path": "web/tests/helpers/skill-vfx-harness.js",
+      "bytes": 3940,
+      "sha256": "0b012b78e86b1f8764f0bb14f6aae3dfa1c509b243d20bc1aad0ae5c4b619e9f"
+    },
+    {
+      "path": "web/tests/helpers/solo-impact-vfx-case.mjs",
+      "bytes": 9994,
+      "sha256": "207908505ce8edbe15d0b68342599979d0721e3dbf55af4feaec90986b78dea2"
+    },
+    {
+      "path": "web/tests/helpers/static-rig-runtime-case.mjs",
+      "bytes": 2441,
+      "sha256": "54d594e429d067e717cf33f02a43292ee79ba9c266b03608f4e79be52d624a67"
+    },
+    {
+      "path": "web/tests/helpers/static-rig-runtime-harness.js",
+      "bytes": 3955,
+      "sha256": "46b0b968496d8f3708b593907345cdb80f1e67698f6b6e8c01cf058d21be1d93"
+    },
+    {
+      "path": "web/tests/helpers/status-runtime-harness.js",
+      "bytes": 6258,
+      "sha256": "481d25cf7479c82e9473923a68bc64ab5e70066f0c97bd325a987815bd630d3a"
+    },
+    {
+      "path": "web/tests/helpers/turret-matrix-harness.js",
+      "bytes": 2026,
+      "sha256": "2e745b64466404bcd246f66970d961ebd4157abf6cdafdfdd8cf9f67e23e0c02"
+    },
+    {
+      "path": "web/tests/helpers/vfx-capacity-comparison.js",
+      "bytes": 1210,
+      "sha256": "8d26c4ce5dc266c6b2643dde812d3330b293fb4e2fb309b724c15f837d265273"
+    },
+    {
+      "path": "web/tests/helpers/viewmodel-animation-harness.js",
+      "bytes": 3328,
+      "sha256": "1abacb5cae761c03ff187432e6e91c3ad9f55be99d3f9d2c8b375e501bb4ca4e"
+    },
+    {
+      "path": "web/tests/helpers/w-stationary-policy.js",
+      "bytes": 2992,
+      "sha256": "3f9f55e709f0a2f1a314b48015c2a46bba80f0fc981f5ce6d12ab6b12acb0912"
+    },
+    {
+      "path": "web/tests/hook-chain.test.js",
+      "bytes": 4867,
+      "sha256": "1e61b9863e88ba7c620f01f9f0a102edffad7df8440c74815eb974fcbf74c28e"
+    },
+    {
+      "path": "web/tests/hook-interruption.test.js",
+      "bytes": 8411,
+      "sha256": "0ac2eacfb80a2c553caae7daea995e86f4964d81cd6eac36e1a124c0ce3ddba0"
+    },
+    {
+      "path": "web/tests/hook-matrix-performance.test.js",
+      "bytes": 11544,
+      "sha256": "4d59a576b2ec8a805d2c7b2a77377b13477e5504173300db701477aadc43a15f"
+    },
+    {
+      "path": "web/tests/hook-motion.test.js",
+      "bytes": 26035,
+      "sha256": "4e7673f9690caa0605a3e475e854fd69ef7bfd250746361ecf90b9a573068f50"
+    },
+    {
+      "path": "web/tests/interrupted-impact-shake.test.js",
+      "bytes": 8806,
+      "sha256": "dd779639c6ebf173abf5ff882210e1b83e74ed1b7bbc00e96b829d5513b23bb3"
+    },
+    {
+      "path": "web/tests/irregular-targets-runtime.test.js",
+      "bytes": 2627,
+      "sha256": "8b4cab97da865a89128d674a24ce7f8f345c708cef6a603c5eb4efbe458dd5ed"
+    },
+    {
+      "path": "web/tests/irregular-targets.test.js",
+      "bytes": 1715,
+      "sha256": "6dee0e88dc09ec9f652037f441b35a6c737ed61ed7121138addffc1d2bc2da67"
+    },
+    {
+      "path": "web/tests/jump-motion.test.js",
+      "bytes": 6335,
+      "sha256": "d57039cf7035cbd8508cf33667fcdf46445b151f46e14cbd127be8264ca482df"
+    },
+    {
+      "path": "web/tests/jump-runtime.test.js",
+      "bytes": 10844,
+      "sha256": "276d8bac6c865a60fa93991f1bc8e7681b836b96a290761b821e83de7da04d30"
+    },
+    {
+      "path": "web/tests/left-click-punch.test.js",
+      "bytes": 3977,
+      "sha256": "00ded7245e99da82d46099a90cea048dcca68dc00bb7c7a9bd0e6471b1e73713"
+    },
+    {
+      "path": "web/tests/loaded-skill-configure.test.js",
+      "bytes": 2806,
+      "sha256": "0c3baea80cd66c84fa6775db6b2e0a774ec9335172bebc704eb0fb67cbdf9786"
+    },
+    {
+      "path": "web/tests/loading-harness-boundaries.test.js",
+      "bytes": 1073,
+      "sha256": "e76b9e36ed245b6544a9110a88a507b9944b310b52890847a2dc2b8be46ad1ae"
+    },
+    {
+      "path": "web/tests/lossless-texture-transport.test.js",
+      "bytes": 4834,
+      "sha256": "575a98bfa253a00bd40bfaa040a0ad2593561862f08a9c7e76f56716f798f796"
+    },
+    {
+      "path": "web/tests/mage-crystal-profile.test.js",
+      "bytes": 12107,
+      "sha256": "48045b62c0510c3ca3c26ebffdedb43bb939b0e4f94f31e69af51633407c30c3"
+    },
+    {
+      "path": "web/tests/mage-crystal-surface.test.js",
+      "bytes": 7399,
+      "sha256": "369b9b8a6d5dac79540e674f522d9af6f93ceb0a17d2a2153e99dcbd6902d8ec"
+    },
+    {
+      "path": "web/tests/mage-face-cuts.test.js",
+      "bytes": 3192,
+      "sha256": "e4d7f5426d55fc8e307020f2b0533db9a563478a936b43266d20bd7e01588654"
+    },
+    {
+      "path": "web/tests/mage-rear-collar.test.js",
+      "bytes": 3547,
+      "sha256": "b42a02439ef34c5b09eaa13e2d25561797ae1e383a356ffd0bc4de37f4e123ac"
+    },
+    {
+      "path": "web/tests/mage-shoulder-engraving.test.js",
+      "bytes": 15423,
+      "sha256": "7fed6386e751b3c168f3ad32f31c53d5f7228c38932d360f26b016d1aec0a0d0"
+    },
+    {
+      "path": "web/tests/mobile-hybrid.test.js",
+      "bytes": 1703,
+      "sha256": "e467b700a7541670e0d683145adbec6b48bd75978d0933b565264fccb8cef2ed"
+    },
+    {
+      "path": "web/tests/mobile-interface.test.js",
+      "bytes": 2639,
+      "sha256": "825fcb9581fc1eefcf6c324b4614daa0e60d2ccd212f29846722c89139d7229b"
+    },
+    {
+      "path": "web/tests/mobile-runtime.test.js",
+      "bytes": 5228,
+      "sha256": "f1b873fcf27ba9c618fbba98f1195b8cfc7788e3d0b526be5a24f4effc28226b"
+    },
+    {
+      "path": "web/tests/mode-records-runtime.test.js",
+      "bytes": 9852,
+      "sha256": "3a8475352da4684f714843bcfac01ae381135ce586b0d4c0181655e7315c15e0"
+    },
+    {
+      "path": "web/tests/mode-records.test.js",
+      "bytes": 9732,
+      "sha256": "2ffda2c02520d25db7846765c20931a5c37de1f269c98349a4e38cadf6bfc4a3"
+    },
+    {
+      "path": "web/tests/model-codec.test.js",
+      "bytes": 8121,
+      "sha256": "690a16bbb8784bcfe72f66c2f3250dd22d51990e5be23d3f3f184b2f68bdcede"
+    },
+    {
+      "path": "web/tests/mouse-look.test.js",
+      "bytes": 11306,
+      "sha256": "80e5f6a6a0bb4c926bc20e1f84da1843a00ac62182cb890a39f4be0aa952cff3"
+    },
+    {
+      "path": "web/tests/neutral-audio.test.js",
+      "bytes": 13467,
+      "sha256": "f45f2d5ba601e8bf9bb028fdae2cab73974c9da22089a5ed52f28da3e28a4f92"
+    },
+    {
+      "path": "web/tests/official-skill-icons.test.js",
+      "bytes": 3998,
+      "sha256": "e97e1285178b3e601167a69c8ba3553e54dd7e5e149cb4331df5dc10acad1f3d"
+    },
+    {
+      "path": "web/tests/online-duel-answer-lifecycle.test.js",
+      "bytes": 3594,
+      "sha256": "c9cb0ad861459fbbe5df4e5d39b18119aa0576d495e4cab60a7e53adfb0aa93b"
+    },
+    {
+      "path": "web/tests/online-duel-app.test.js",
+      "bytes": 15567,
+      "sha256": "5e32b77d734791619d497c7e40213f6a19b198f2a67b3fac2c72ea2727628264"
+    },
+    {
+      "path": "web/tests/online-duel-packet-boundaries.test.js",
+      "bytes": 6205,
+      "sha256": "5e3ee208adfdf37eec63ca65e974d79d4db26b1e0b0267f5e9003d68af6c1d41"
+    },
+    {
+      "path": "web/tests/online-duel-pause-delivery.test.js",
+      "bytes": 6034,
+      "sha256": "e9a6437ab556e9298e7ddbc3be8b429e8efed47e05ee19b211c62a41df65c10f"
+    },
+    {
+      "path": "web/tests/online-duel-peer-lifecycle.test.js",
+      "bytes": 7282,
+      "sha256": "4342e025e625af4abb23db64edf073b2b830be8066885e7c1134c93070b096fd"
+    },
+    {
+      "path": "web/tests/online-duel-peer.test.js",
+      "bytes": 4304,
+      "sha256": "eea29e3fdcf8a0131cc583e69257bd640fb7265c7907cbbbb74a0449e8f64930"
+    },
+    {
+      "path": "web/tests/online-duel-session.test.js",
+      "bytes": 5660,
+      "sha256": "8162c0711634d90f0c9ca1ee2b529d311345c1d2984090b2a52594a2e8c8f1dd"
+    },
+    {
+      "path": "web/tests/online-duel-view.test.js",
+      "bytes": 11464,
+      "sha256": "7e0845c638258de591fceca71b1b6e66cddb9c02a3d3568c33e25c4310b0d38a"
+    },
+    {
+      "path": "web/tests/online-duel-world.test.js",
+      "bytes": 7923,
+      "sha256": "84319ac7a0b68e023448eac41011d040fbb83e5a1ef67b31269457ae09e5e2b5"
+    },
+    {
+      "path": "web/tests/online-input-order.test.js",
+      "bytes": 7513,
+      "sha256": "4e3bd8d35c68e2ffd5ac56706926b29f5dff49ee50f67c25ce248155e7784112"
+    },
+    {
+      "path": "web/tests/online-lobby-usability.test.js",
+      "bytes": 7346,
+      "sha256": "74fded229a6b0835e88b28f1819ec286d3925e5c2e452fcafca52271a3910f8b"
+    },
+    {
+      "path": "web/tests/online-local-pause-result.test.js",
+      "bytes": 4434,
+      "sha256": "b1c0581c1462078df5d0af65186950531972f4dad34f1ba7e1b6fc8bf8ae7f5e"
+    },
+    {
+      "path": "web/tests/online-network-diagnostics.test.js",
+      "bytes": 13289,
+      "sha256": "1ff67033ce7bbe7729d13207880c1ae52a510f179c8db8af1bd26946f79ddb40"
+    },
+    {
+      "path": "web/tests/online-network-ui.test.js",
+      "bytes": 6169,
+      "sha256": "b000c9d2765006986bbc6e4d9d708b96d925b1f9a9d251e92adf913e9cb80f5a"
+    },
+    {
+      "path": "web/tests/online-ready-attempt.test.js",
+      "bytes": 7470,
+      "sha256": "88d6652cbf7a04485ddb9e72c869fa76659447b5985582dfdcbb71901b82f83c"
+    },
+    {
+      "path": "web/tests/online-ready-backpressure.test.js",
+      "bytes": 5673,
+      "sha256": "f1667f75b4725ee812a86e28c48d5b1158cf653af5e30cc58f04ff8ae5983146"
+    },
+    {
+      "path": "web/tests/online-recovery-budget.test.js",
+      "bytes": 5258,
+      "sha256": "edbfbc8fdc6145322968c4de8bf58164e1aac37edf747d9885a852631483dcae"
+    },
+    {
+      "path": "web/tests/online-remote-smoothing.test.js",
+      "bytes": 5414,
+      "sha256": "a645a4e0ba7c36fe088be5cb3a0cfc7a5dc68f21cac143e57de02fc59146ae67"
+    },
+    {
+      "path": "web/tests/online-round-interruptions.test.js",
+      "bytes": 3183,
+      "sha256": "768b2dd5d6e687e73f9b0a93cd517d88877874400f4e0988d54c49da60a1bb0b"
+    },
+    {
+      "path": "web/tests/online-state-age.test.js",
+      "bytes": 3595,
+      "sha256": "4d020d40834b7c982fed7057e864dad918bb0b50b04a481f548c95069b504ee4"
+    },
+    {
+      "path": "web/tests/online-touch-lifecycle.test.js",
+      "bytes": 5599,
+      "sha256": "a6e8e2b08e8bc9f056b7833f27218209e1f0dd0a600ba54f42d1d311a2441677"
+    },
+    {
+      "path": "web/tests/optional-hook-records.test.js",
+      "bytes": 7159,
+      "sha256": "03caed79d3522cf449b95b4d471746ed78e44dc51b39f09f3cd32a9a8fd19d21"
+    },
+    {
+      "path": "web/tests/optional-hook-runtime.test.js",
+      "bytes": 9336,
+      "sha256": "ed858a047176ae49b48b80ee2b14f894b6a574a5efe185df89cf46825231cd8a"
+    },
+    {
+      "path": "web/tests/particle-lifetime.test.js",
+      "bytes": 9140,
+      "sha256": "11a77b2cb2f996fb29b6c70962618d928a4970b4d62455639508a0670fe346b3"
+    },
+    {
+      "path": "web/tests/paused-view-runtime.test.js",
+      "bytes": 5922,
+      "sha256": "390ed57650408414669165b7327a88a6daa147911da001f7100a0812c6a1bce1"
+    },
+    {
+      "path": "web/tests/pending-audio-main.test.js",
+      "bytes": 9934,
+      "sha256": "7e4ed376e3f5d943e76d577a38acdde877c67de0a4cbef3a1f43db5dc7dcb3cd"
+    },
+    {
+      "path": "web/tests/pending-audio-resume.test.js",
+      "bytes": 6629,
+      "sha256": "6791a957dae505011a1621afdf2e4f3ce539344efda2d219dc7061967dde833c"
+    },
+    {
+      "path": "web/tests/player-asset-budget.test.js",
+      "bytes": 1501,
+      "sha256": "335e0b207d88e3d1416e3ecfc46ce88f4b45e1fed88b2a5ed52f13259d657a4f"
+    },
+    {
+      "path": "web/tests/player-socket-performance.test.js",
+      "bytes": 5929,
+      "sha256": "c208523e9579bec6222bd6cb68c6574b0017263bfdd214820e7aa2a5368244c1"
+    },
+    {
+      "path": "web/tests/portrait-camera.test.js",
+      "bytes": 9199,
+      "sha256": "a0ad25e962b316b87e1d6ef89b8cceb0da3b5740d337eaca2f87d4c181c2b4ae"
+    },
+    {
+      "path": "web/tests/pose-run-performance.test.js",
+      "bytes": 4322,
+      "sha256": "8001cd0c7aafc651c35cdf74d197215c2df43bd24a2a13395863b46c8eb8f874"
+    },
+    {
+      "path": "web/tests/projectile-prepare-performance.test.js",
+      "bytes": 6258,
+      "sha256": "163d80d2ad3845d5bc5267ad245e2c7fc02f4b32d0f728352777f52844067aa4"
+    },
+    {
+      "path": "web/tests/punch-endpoint-runtime.test.js",
+      "bytes": 5289,
+      "sha256": "a30eca5dcf3325663d0726b70065f997537cdf72a6c9dd9e6e7de0fcfd15d08f"
+    },
+    {
+      "path": "web/tests/punch-endpoint-scope.test.js",
+      "bytes": 1435,
+      "sha256": "8b7bb208f447b4296787bd282d3c1ee0a06be03519c123f61de98723719dc6d0"
+    },
+    {
+      "path": "web/tests/q-cooldown-boundaries.test.js",
+      "bytes": 3610,
+      "sha256": "e4220f055b9de00532ba318e0a2941c4e4aca9307cc32b912945834b0286340f"
+    },
+    {
+      "path": "web/tests/q-handoff-policy.test.js",
+      "bytes": 1820,
+      "sha256": "35fbe8cac11dd99f817e8ce7a0be63e7b386496c9c06a98a37366b9026d64cc6"
+    },
+    {
+      "path": "web/tests/q-recovery-handoff.test.js",
+      "bytes": 2709,
+      "sha256": "511fdb9e890f476265d41fe19d2368ff52b176901f7b1283839cf01d977d59f9"
+    },
+    {
+      "path": "web/tests/r-arm-recovery-runtime.test.js",
+      "bytes": 2325,
+      "sha256": "a8c8f17e13c636e5cccfb7798ed0103a321b223348380cc8f73fcc6962c48ac0"
+    },
+    {
+      "path": "web/tests/r-arm-recovery.test.js",
+      "bytes": 4936,
+      "sha256": "d41af3dad0288c7850bedca7f85467baa9609ac7698e14754d7a82784ad44c00"
+    },
+    {
+      "path": "web/tests/r-avatar-policy.test.js",
+      "bytes": 2406,
+      "sha256": "7122cdb133a20b892277283ee8eadb55bd0bc0c569b47c909c728c05c9cee68b"
+    },
+    {
+      "path": "web/tests/r-locomotion-policy-harness.test.js",
+      "bytes": 5803,
+      "sha256": "12155fa37130022c248ee5b33ced5463fa1d08b5cb7ff0aba09354107e02a23c"
+    },
+    {
+      "path": "web/tests/r-runtime-boundaries.test.js",
+      "bytes": 3125,
+      "sha256": "875a1a23ce4989a64b9d6a5f33003995d027584d009cec2b3fa356e44c62a20b"
+    },
+    {
+      "path": "web/tests/r-runtime-replay.mjs",
+      "bytes": 1484,
+      "sha256": "f5bb8c15e1e6b27470487b54322033212cdc282b88b41aa3b40a332c5698b848"
+    },
+    {
+      "path": "web/tests/r-walk-layer.test.js",
+      "bytes": 7369,
+      "sha256": "c3aa11a2ece240aa1e8bf3c694286f5b1184f81c825e9c0c20b6082393062814"
+    },
+    {
+      "path": "web/tests/ready-release-label.test.js",
+      "bytes": 850,
+      "sha256": "ca444e27e794cfb1127fd18d535f25d9f5090bb4d85ff1eb33dc1cd7018c5fa8"
+    },
+    {
+      "path": "web/tests/reference-models.test.js",
+      "bytes": 5489,
+      "sha256": "42b9d1fee9b6e3402b1368307093d0f37eaf5a016fd42205839e6dac678742ec"
+    },
+    {
+      "path": "web/tests/restart-mode-runtime.test.js",
+      "bytes": 9947,
+      "sha256": "4a62ae6e9a3063285d01b825d73ff81594e059660999ad47af3df604548ac260"
+    },
+    {
+      "path": "web/tests/results-view-runtime.test.js",
+      "bytes": 7070,
+      "sha256": "596a314c65f6ff80ef432b452eb0ffbb4d73f3d024d7b31918883780ad3f9137"
+    },
+    {
+      "path": "web/tests/rift-map-flash.test.js",
+      "bytes": 5285,
+      "sha256": "90d5a3b8626d8fc8f47477490efa16e159511994df176cdeac89185855dc6c9c"
+    },
+    {
+      "path": "web/tests/rift-map-hook.test.js",
+      "bytes": 5713,
+      "sha256": "9bb51cdf38e88b95bc7d0d75525fda1744de5f60988711851d003e5ccb75ce81"
+    },
+    {
+      "path": "web/tests/rift-map-planar-controls.test.js",
+      "bytes": 2789,
+      "sha256": "8b5d5098b5736d60bf4d990bbc3942cf5263fbdf28e7f083bcb4ca8f2f731bd1"
+    },
+    {
+      "path": "web/tests/rift-map-planar.test.js",
+      "bytes": 3186,
+      "sha256": "bc6f149648e4eec1650cd43c93b855969aabd5727c16b0a055eeef173b6c41c2"
+    },
+    {
+      "path": "web/tests/rift-map-pull.test.js",
+      "bytes": 6438,
+      "sha256": "939357ebb3270e6d35b3148bced5b1a9c3f854d53bc39c6b6af0b1ec54000eb6"
+    },
+    {
+      "path": "web/tests/rift-map-study.test.js",
+      "bytes": 4076,
+      "sha256": "209df31ee790136c65dd968f77f051a9a9eb6f017070bac0864cf917ce9da0e9"
+    },
+    {
+      "path": "web/tests/rift-map-test-lifecycle.test.js",
+      "bytes": 17288,
+      "sha256": "c54036ff70db64c809bf87d23ae93133a9e90593f51fe15faf63b292a2d806c2"
+    },
+    {
+      "path": "web/tests/rift-map-v36-contract.test.js",
+      "bytes": 10215,
+      "sha256": "a0a424c476e622e328b67206d8e306a7fb8a749b58f77021abfc6225c5aa7aa7"
+    },
+    {
+      "path": "web/tests/rift-v39-contract.test.js",
+      "bytes": 10215,
+      "sha256": "3ddca072e26ebd148f1830dad4e9f45e72e4d2dc633f031c69f24ef0a4f67d12"
+    },
+    {
+      "path": "web/tests/rift-v39-footprint-coverage.test.js",
+      "bytes": 4305,
+      "sha256": "9753ea52321206c9a4c4a5049e3cf2c5c5b3b037f4d40aacb6afe66af94c0174"
+    },
+    {
+      "path": "web/tests/rift-v39-lifecycle.test.js",
+      "bytes": 17302,
+      "sha256": "b982938b4e7f02d9dd88f599c9a31d1bcac9259ebaab722f39d94c40ce8497f4"
+    },
+    {
+      "path": "web/tests/rift-v39-route-search.test.js",
+      "bytes": 3374,
+      "sha256": "3dfeb4dd10290dfc4409b0f1ff22c18251e0c2bdf0e93cab1ac18f71d55b7a7f"
+    },
+    {
+      "path": "web/tests/rift-v39-spawn-audit.test.js",
+      "bytes": 4081,
+      "sha256": "4c9b56dac9a772e774c6b03704222199c3bb2454e22122da41ae9c7dbc27acc1"
+    },
+    {
+      "path": "web/tests/rift-v39-support-audit.test.js",
+      "bytes": 3683,
+      "sha256": "03f3001fd5360e0f71152062ec85d65db2b193140ec9c9c633f0a2252bbc6411"
+    },
+    {
+      "path": "web/tests/rift-v39-switch.test.js",
+      "bytes": 1067,
+      "sha256": "84b591826fe56a9d1c41550ad5dcbf363a6c6b5a7cc27210110187231e894f96"
+    },
+    {
+      "path": "web/tests/rift-v49-actor-safety.test.js",
+      "bytes": 3474,
+      "sha256": "d7bb2d035ee5f248e2e7d1dcac1edfb1b495f26eafec5a6387a64980913fc4fe"
+    },
+    {
+      "path": "web/tests/rift-v49-audit-isolation.test.js",
+      "bytes": 3159,
+      "sha256": "bc33e7983f46b9cc85fa6b034d14290b2a45c4da3328c7efd1fdfc3b484437b2"
+    },
+    {
+      "path": "web/tests/rift-v49-audited-flash.test.js",
+      "bytes": 3020,
+      "sha256": "5026aa5576e564bb71fcf2bba0d8c720db5c0c8498e6583f3b36ffd0bb157901"
+    },
+    {
+      "path": "web/tests/rift-v49-audited-hook.test.js",
+      "bytes": 3385,
+      "sha256": "96068210c3f9a7d9ffe36d35b307adb0c105363e00f62591e53d5f52669e3aaf"
+    },
+    {
+      "path": "web/tests/rift-v49-audited-movement.test.js",
+      "bytes": 3197,
+      "sha256": "546ac3388072fa2d2982d0c6699d1acdaa58bc84c47bbb1747026ecf3efd383c"
+    },
+    {
+      "path": "web/tests/rift-v49-audited-pull.test.js",
+      "bytes": 3574,
+      "sha256": "b084d9a9be71d3eaa955bfbc0bd1affaaa24fbcfa5ba1a7fe4b10a3db9201eb1"
+    },
+    {
+      "path": "web/tests/rift-v49-bounded-approach.test.js",
+      "bytes": 3103,
+      "sha256": "84b4a6c9da5153a34957ed07421afc527846bdfdde348bd2d8d6263218686211"
+    },
+    {
+      "path": "web/tests/rift-v49-browser-inputs.test.js",
+      "bytes": 3830,
+      "sha256": "06916489037aa1d9aa1ee52e8d83b10a386a09249ff6a6ec6a2d61f719c8b0b7"
+    },
+    {
+      "path": "web/tests/rift-v49-camp-controller-trial.test.js",
+      "bytes": 674,
+      "sha256": "7e83637dbdf0d2576bf9d81542d75138e98cfff1b72c07492a85d09b119c5bbf"
+    },
+    {
+      "path": "web/tests/rift-v49-cap-body-study.test.js",
+      "bytes": 2191,
+      "sha256": "7d53ed30fdd91980a540236b30b5aeedb691f40d85a6c24cb7e9690088d9bf30"
+    },
+    {
+      "path": "web/tests/rift-v49-collider-isolation.test.js",
+      "bytes": 3318,
+      "sha256": "3ed4f7c6e9d0e3d4590aad944a3678ae4acebdce6aeaa1adee2cbc38800b0f8f"
+    },
+    {
+      "path": "web/tests/rift-v49-contact-timing.test.js",
+      "bytes": 3987,
+      "sha256": "31ff7c416484b472586beae1c3b163cefd4978289fcc0037a1652dd62ed060d8"
+    },
+    {
+      "path": "web/tests/rift-v49-containment.test.js",
+      "bytes": 3136,
+      "sha256": "1e76b97fd043d5c7400c5ba300b74327eb25a258c02c9c58d8a650c0a63faa28"
+    },
+    {
+      "path": "web/tests/rift-v49-flower-inputs.test.js",
+      "bytes": 3281,
+      "sha256": "29080c396b6a9117ca277bfd12281007dcb89018b0377bad7fc84e4d491837ec"
+    },
+    {
+      "path": "web/tests/rift-v49-frame-driver.test.js",
+      "bytes": 2823,
+      "sha256": "d90c08790b353600fa197694915ff9c78222f7ea79a977fc06a8cc2ccb3f674a"
+    },
+    {
+      "path": "web/tests/rift-v49-guarded-session.test.js",
+      "bytes": 3122,
+      "sha256": "ffc04e42cb8843a57788cf775f14397031390f735f6e9fedb8409e7ceb33a3e3"
+    },
+    {
+      "path": "web/tests/rift-v49-home-consistency.test.js",
+      "bytes": 3227,
+      "sha256": "2780c25163f19da4ac73f51ce917084f5e771ae566ad0176e8dcd52fead285f3"
+    },
+    {
+      "path": "web/tests/rift-v49-hook-foliage-policy.test.js",
+      "bytes": 2210,
+      "sha256": "e940618858aa969e06cd43c71ad8cfe741f6ea72288fbc2c9d556566bc6aa5f0"
+    },
+    {
+      "path": "web/tests/rift-v49-input-scaled-movement.test.js",
+      "bytes": 3320,
+      "sha256": "b52dbb1f230cbd4b181b521f50281f8735913f7876baf6931cc9c0a5326f9396"
+    },
+    {
+      "path": "web/tests/rift-v49-integrated-trial.test.js",
+      "bytes": 3026,
+      "sha256": "ce6693af7fc8de4d43bb5305c10feba80d44420a7d16b6e0f11d183f91aca1f2"
+    },
+    {
+      "path": "web/tests/rift-v49-keyboard-input.test.js",
+      "bytes": 2651,
+      "sha256": "23594b8554711dc3774819b0d16a32f657a4f40dc288f0ec5d055fb7a446537d"
+    },
+    {
+      "path": "web/tests/rift-v49-map-inspection.test.js",
+      "bytes": 2155,
+      "sha256": "0f5536f5e9dcd2ed8754fe0abcf99ecc46760898836026b7a61d6df477460e70"
+    },
+    {
+      "path": "web/tests/rift-v49-mesh-section.test.js",
+      "bytes": 2295,
+      "sha256": "a0ecf74a4ff4a926ae856f12775abbbccaa341c5bd15738a3efc9b509b0827c1"
+    },
+    {
+      "path": "web/tests/rift-v49-offline-inputs.test.js",
+      "bytes": 2213,
+      "sha256": "4f21aa6a4859605df632bb89e2824d2252190461293c3e6c8c5c8fff7daad82a"
+    },
+    {
+      "path": "web/tests/rift-v49-pinned-cap-study.test.js",
+      "bytes": 814,
+      "sha256": "baf7ce0fb5086d1e05054c3d308e64231ad9a6d5c1fc78c25146a7717b8d78ba"
+    },
+    {
+      "path": "web/tests/rift-v49-player-spatial.test.js",
+      "bytes": 2949,
+      "sha256": "6b071d2fd83edb24a0b50abdab8dea2a5bbde6f199dabd96ca732e5cad7838d6"
+    },
+    {
+      "path": "web/tests/rift-v49-pointer-aim.test.js",
+      "bytes": 3051,
+      "sha256": "4923fdbb05f67c78dfa144917f480d7e2068fa444cb5f20203f288454ff72306"
+    },
+    {
+      "path": "web/tests/rift-v49-red-floor-policy.test.js",
+      "bytes": 1022,
+      "sha256": "3ff264f063287f2268bbadde7641d95434b9d98f4bb85bf2d87bd7ed88ebe694"
+    },
+    {
+      "path": "web/tests/rift-v49-reentrancy.test.js",
+      "bytes": 3677,
+      "sha256": "8512fb4b44573fbd0f73bc5983deaa7c3c89c85b88dcfff1d7d4561f049c6c2b"
+    },
+    {
+      "path": "web/tests/rift-v49-resilient-session.test.js",
+      "bytes": 3576,
+      "sha256": "4728896a7097c5207292eaf124396956cfdf19865d1e7c5436eb5a8d42970e03"
+    },
+    {
+      "path": "web/tests/rift-v49-respawn.test.js",
+      "bytes": 3405,
+      "sha256": "e4eb948bdb589b66c643176496ec74986055df059bba6cfd140324393b86d61f"
+    },
+    {
+      "path": "web/tests/rift-v49-skill-presentation.test.js",
+      "bytes": 2670,
+      "sha256": "c5a91b0e654f729589620f40d7db86c7c32567b259ece9b0a851e68c3d59d0ff"
+    },
+    {
+      "path": "web/tests/rift-v49-spawn-diagnostics.test.js",
+      "bytes": 3193,
+      "sha256": "ab69f0bc6a3f90da51df61335f1c68c52a7c5c44a6969784b2c7ed13497ec1cb"
+    },
+    {
+      "path": "web/tests/rift-v49-spawn-search.test.js",
+      "bytes": 3181,
+      "sha256": "2f03079d667942edb030f42b24fe1a0d28e0b5a25516f44845e9543e59e5d050"
+    },
+    {
+      "path": "web/tests/rift-v49-stationary-fallback.test.js",
+      "bytes": 3520,
+      "sha256": "875338bde139eae03e35a1e382a41bd2a68d45c776e6ed2603b2a11419895022"
+    },
+    {
+      "path": "web/tests/rift-v49-strict-containment-spawn.test.js",
+      "bytes": 3192,
+      "sha256": "91f5eb7475c194e516867fb77c89e2c19cba59df24a9de22ba8b58d9ebc5a8e9"
+    },
+    {
+      "path": "web/tests/rift-v49-timed-actor.test.js",
+      "bytes": 3150,
+      "sha256": "2b807c858f403484683eb499bcc5761e9367848c055d266661ae761adb9c8066"
+    },
+    {
+      "path": "web/tests/rift-v49-top-cap-study.test.js",
+      "bytes": 1744,
+      "sha256": "39f537b8d17166032d86f7b1c8b549bd23e24652de938604a1274248d2ee7044"
+    },
+    {
+      "path": "web/tests/rift-v49-uncertainty-corridor.test.js",
+      "bytes": 1455,
+      "sha256": "a33fad0947dafd2564893024b8247269df1fb5908d2c1c8403f821cdbb0d4547"
+    },
+    {
+      "path": "web/tests/rift-v49-viewport.test.js",
+      "bytes": 3862,
+      "sha256": "d3423b28a8772cd8d69a7a872c7230670883279d7a3494aedfad556f28deebb0"
+    },
+    {
+      "path": "web/tests/rift-v49-visual-build.test.js",
+      "bytes": 1382,
+      "sha256": "2a80c768cb001623e6514ff332219d7631b10b004005f7451a2fd4800cad3309"
+    },
+    {
+      "path": "web/tests/rift-v49-visual-session.test.js",
+      "bytes": 2826,
+      "sha256": "dacf23f448ee028a94d6a019e372351df0cebcdc0c738daa696cd0a562ac76e4"
+    },
+    {
+      "path": "web/tests/rift-v49-wall-approach.test.js",
+      "bytes": 3291,
+      "sha256": "90587a995de695577692f9a9e1a0359903b7bda6017e5492a04080df60665931"
+    },
+    {
+      "path": "web/tests/rift-v49-wall-contact.test.js",
+      "bytes": 3948,
+      "sha256": "154bbf0dd34265da7eabefdbb6bff5f374b65d4d4a6a7453082d6c4328ca649e"
+    },
+    {
+      "path": "web/tests/runtime-performance.test.js",
+      "bytes": 5527,
+      "sha256": "ddf21a4bbcb03e296f199d45659d20bf3a49c2d04bbf2814504092d7110c0bb2"
+    },
+    {
+      "path": "web/tests/runtime.test.js",
+      "bytes": 9051,
+      "sha256": "9c1be8b615dfc0ae7438dc859ae77d08f72cdbf3db65f2af428a475c7b9fbcae"
+    },
+    {
+      "path": "web/tests/sample-interruption.test.js",
+      "bytes": 4163,
+      "sha256": "9759f9d6abc70a4d4d7a3848a7dd885e8147e372d36cc211c86d1dcfcf4ecc24"
+    },
+    {
+      "path": "web/tests/showcase-static-performance.test.js",
+      "bytes": 6588,
+      "sha256": "23ace46ce724a602c6e593d582a5180781edb3d12206d87f5c121171970fb622"
+    },
+    {
+      "path": "web/tests/skill-animation.test.js",
+      "bytes": 3211,
+      "sha256": "96ece981cc70c6c6c97455735f77650e32374cbd36387c9b823591fc8ec2411d"
+    },
+    {
+      "path": "web/tests/skill-assets.test.js",
+      "bytes": 3164,
+      "sha256": "5c411b607e431da44e51fd42f4b32d08dc2f3c552ce7d0fd74caa29e2d6f1e10"
+    },
+    {
+      "path": "web/tests/skill-audio.test.js",
+      "bytes": 2868,
+      "sha256": "d1f37347666f871c1bd225d86497d26adc9ba1abb2fdedd8dbb63b08a328d273"
+    },
+    {
+      "path": "web/tests/skill-console-state.test.js",
+      "bytes": 1929,
+      "sha256": "e2b8abb303bef7622a333b51b053d4d659209b85c8bf5d9ecf5adc3d39bec19c"
+    },
+    {
+      "path": "web/tests/skill-controller.test.js",
+      "bytes": 3053,
+      "sha256": "ca804849e3aa809e539286fdd34a44a5803e0195853b8a5838c94b996f624cd5"
+    },
+    {
+      "path": "web/tests/skill-readiness.test.js",
+      "bytes": 4631,
+      "sha256": "f6d65d972e5f9240dd02a2f53e439fd32ccb8fe7d3f5270e1875ef2d1030cb2a"
+    },
+    {
+      "path": "web/tests/skill-runtime.test.js",
+      "bytes": 19528,
+      "sha256": "7fd3342f13ab485cb7cfdb4257fa070e9079d6168e335ff4ce8c66053bbad2c1"
+    },
+    {
+      "path": "web/tests/skill-source-parts.test.js",
+      "bytes": 4554,
+      "sha256": "0ebb327e9d79e6a37b0c233b24dc7f57b046e7c21bdf841862b7a078fd5c857d"
+    },
+    {
+      "path": "web/tests/skill-startup-validation.test.js",
+      "bytes": 593,
+      "sha256": "4797d04d1d01054b4c62a267a2c2294e4ef4ca38a48cd415c21e6e1d827e42ad"
+    },
+    {
+      "path": "web/tests/skill-timeline.test.js",
+      "bytes": 2866,
+      "sha256": "3f2f72d7b17adb795bd626003c5f7128333d632de19536b39ea1adabcc542419"
+    },
+    {
+      "path": "web/tests/skill-timer-boundaries-runtime.test.js",
+      "bytes": 1833,
+      "sha256": "2e7fd55a5d4e310a9c04fc1d499cfec4a3aad9e712d364c2581ef07c1b6adbc8"
+    },
+    {
+      "path": "web/tests/skill-timer-boundaries.test.js",
+      "bytes": 3352,
+      "sha256": "f95a0ee2505dd8867669c6ed0edb093c1de16b7412f2826fabcda634aac5c9cb"
+    },
+    {
+      "path": "web/tests/skill-validation-performance.test.js",
+      "bytes": 5289,
+      "sha256": "ecc07b5667f47f8cd1764a7d5c6e4b614e8fb68bf38e511969c9a90821fd3713"
+    },
+    {
+      "path": "web/tests/skill-vfx-cache.test.js",
+      "bytes": 4149,
+      "sha256": "894af464e67f8af2ff2a9423c36880d3a57d184d79e243fe8614319fed8dc809"
+    },
+    {
+      "path": "web/tests/skill-vfx-capacity-bounds.test.js",
+      "bytes": 3618,
+      "sha256": "dfe6aa64b1197bc4e6a02b4e2d7f340f4e039d2ab00201f3483740460aaa2b2a"
+    },
+    {
+      "path": "web/tests/skill-vfx-equivalence.test.js",
+      "bytes": 9602,
+      "sha256": "259b85d81da621f7eec97c0d66bd29e444149b476f5fb296dd3fc1ce8e75034a"
+    },
+    {
+      "path": "web/tests/skill-vfx-impact-offset.test.js",
+      "bytes": 5481,
+      "sha256": "2d4843f1b2b33207311b87f318664a697a6ff44fb6229427798b3caf699839b8"
+    },
+    {
+      "path": "web/tests/skill-vfx-r-cache.test.js",
+      "bytes": 5209,
+      "sha256": "0f27389aaeffb3da7dec272ddb735212d5def3d3a395ee5e0410bf4bed14e929"
+    },
+    {
+      "path": "web/tests/skill-vfx-upload-range.test.js",
+      "bytes": 4063,
+      "sha256": "6b7eb059a810a4fbd3fca84a5a003e88f3a6b08f0cb1c76538a4ab4f3ddd8798"
+    },
+    {
+      "path": "web/tests/skill-vfx-view-refresh.test.js",
+      "bytes": 3163,
+      "sha256": "52b05d1b6a3ad31f539ec8f3d23ae16af5971bcefdd4cea2a18c11974d040806"
+    },
+    {
+      "path": "web/tests/skill-vfx-w-seeds.test.js",
+      "bytes": 4419,
+      "sha256": "3a1e6b42584e5ae3d0aa9ee553625379777311c1820300977ae377d149edb942"
+    },
+    {
+      "path": "web/tests/skill-vfx.test.js",
+      "bytes": 11676,
+      "sha256": "9eb411a4b882e7f72269e8f2fe55c8923cde2686a2c5d5bb0c9b48b15afbb84c"
+    },
+    {
+      "path": "web/tests/solo-effect-offset.test.js",
+      "bytes": 3224,
+      "sha256": "06071690168fda93db9f2de605e531072de3b0219a1f77824e789edc4bcd020c"
+    },
+    {
+      "path": "web/tests/solo-impact-vfx-runtime.test.js",
+      "bytes": 1801,
+      "sha256": "2169dc9d1b17abea8a344f1dbb6c7b5a1d3cc3ae6d774e06a29566f8b19a1f33"
+    },
+    {
+      "path": "web/tests/startup-errors.test.js",
+      "bytes": 8088,
+      "sha256": "8b587bc7cfb4f73078bcbf4b78a43c38c5a6dc81ab31f63c957204a5905ed0f1"
+    },
+    {
+      "path": "web/tests/startup-retry-normal.test.js",
+      "bytes": 1238,
+      "sha256": "27830814d8b16be0d0ad972aa39715c0d62c5f13eba5192d60940b8f0d969bea"
+    },
+    {
+      "path": "web/tests/startup-retry.test.js",
+      "bytes": 11575,
+      "sha256": "ff24d691de561a6b8274a2f51c3569988d74eb3a0dac1f05e424e0f1ef15d329"
+    },
+    {
+      "path": "web/tests/static-rig-matrices.test.js",
+      "bytes": 5996,
+      "sha256": "665193d61a1932057cc7baa0838c01f5365708ed90b4782a49b2f426da4c8db0"
+    },
+    {
+      "path": "web/tests/static-rig-runtime.test.js",
+      "bytes": 1399,
+      "sha256": "b98233677a17aa2f34011f370bb600c79f561130f6b0d901d44a62b5be7bf368"
+    },
+    {
+      "path": "web/tests/status-ui.test.js",
+      "bytes": 10594,
+      "sha256": "26e7eecb316dc757c2b7892605638592ada4393ea95bbf25dcea573f8daab439"
+    },
+    {
+      "path": "web/tests/target-models.test.js",
+      "bytes": 2365,
+      "sha256": "7991a7f4adeaa8708d8b5d5cf0ee5168ef1f4293ada4deb5a9e7432f63c3ef5f"
+    },
+    {
+      "path": "web/tests/touch-layout.test.js",
+      "bytes": 4542,
+      "sha256": "183295c36996c05c6e51085896926c76a0bd3120848a1851376d019d4b2f1b08"
+    },
+    {
+      "path": "web/tests/touch-look-capture-runtime.test.js",
+      "bytes": 4924,
+      "sha256": "fb7d33255da52b3a00f19d8f7b5dce356c9a17d6c81ae7c33ccfd9400a4627f3"
+    },
+    {
+      "path": "web/tests/touch-resize-runtime.test.js",
+      "bytes": 4468,
+      "sha256": "68fb393358fe27460d0574753c84611b82d479c18f6a5a0ee6e5d3442412e11b"
+    },
+    {
+      "path": "web/tests/training-mirror.test.js",
+      "bytes": 7177,
+      "sha256": "9459e46ff1f79b72cf61cd3e1d5d6a160d3082682b0f4c974d442ae2d7b0bbf5"
+    },
+    {
+      "path": "web/tests/turret-acquisition.test.js",
+      "bytes": 4014,
+      "sha256": "382a19a0cd32868b9797418b247910ef96e7b003c39148fb4cfb2629ff8bdc8f"
+    },
+    {
+      "path": "web/tests/turret-core.test.js",
+      "bytes": 4091,
+      "sha256": "2ffedaf0780be334dd1a965e9fb55867064527f88549802c26551c2527ec0789"
+    },
+    {
+      "path": "web/tests/turret-cover-fixture.js",
+      "bytes": 934,
+      "sha256": "30a6d57874ba4b7016bb19360dad93d3f0b30ca538fe34213063a239638f2776"
+    },
+    {
+      "path": "web/tests/turret-cover-math.test.js",
+      "bytes": 2084,
+      "sha256": "579d5e3412ff0608b39c2c14130779b87e2786ae189521fa4a50ca477d9637a6"
+    },
+    {
+      "path": "web/tests/turret-cover-radius.test.js",
+      "bytes": 5565,
+      "sha256": "7f650c1f911a38dfd926d5e0896830c92a1552a3863521c994cc534b49b6ea45"
+    },
+    {
+      "path": "web/tests/turret-cover-runtime.test.js",
+      "bytes": 1345,
+      "sha256": "85140720654e0075229d7503521bdbd085b250118bf31040ec7a318314fd9701"
+    },
+    {
+      "path": "web/tests/turret-direction-layout.test.js",
+      "bytes": 1095,
+      "sha256": "0288568014fd0dba4e7c9b1e602275c2c890a0a6b74f0eeb96745844692eb082"
+    },
+    {
+      "path": "web/tests/turret-direction-runtime.test.js",
+      "bytes": 2827,
+      "sha256": "66484fbcb9d4d68b166df2486eee216c1bdc2e22d581083caed3942542109258"
+    },
+    {
+      "path": "web/tests/turret-direction.test.js",
+      "bytes": 3527,
+      "sha256": "9dd34a2612308c9f997625f14ab7d426744385be657b01112de20067d5da8a04"
+    },
+    {
+      "path": "web/tests/turret-extension-playback.test.js",
+      "bytes": 3208,
+      "sha256": "1401189bea8a71445b8391d7872754bcf5e03edc2f79fa6b266b876a11df86bf"
+    },
+    {
+      "path": "web/tests/turret-manifest.test.js",
+      "bytes": 1417,
+      "sha256": "3146c391da67ceccb91f9a5e830f6a615b0e87ca8b4ede9868a101f81ae49e22"
+    },
+    {
+      "path": "web/tests/turret-matrix-performance.test.js",
+      "bytes": 4169,
+      "sha256": "9e8dbba4ccd56648375685e0ca7e5e73650c3d7d01caed700d8171732045364f"
+    },
+    {
+      "path": "web/tests/turret-moving-contact-runtime.test.js",
+      "bytes": 2999,
+      "sha256": "9b6b5a2ac41050c7f5259ff1b47a292706dfb73e048263101a781a3a22c42638"
+    },
+    {
+      "path": "web/tests/turret-moving-contact.test.js",
+      "bytes": 4713,
+      "sha256": "b5681ba6687c77d986b6945060345a5ba7442ed2960abb803743b21ca4866bd7"
+    },
+    {
+      "path": "web/tests/turret-recorded-audio.test.js",
+      "bytes": 1842,
+      "sha256": "627fe511c3e41f73dce15bb6249024a7cdbb7f969882ff818b083d936e95b8a4"
+    },
+    {
+      "path": "web/tests/turret-shield-reference.test.js",
+      "bytes": 4230,
+      "sha256": "b6e4dbf9ccdf4d28e31ae4de67e6cc2f1d2708a7c0ce6f7974c1357c9f104f2a"
+    },
+    {
+      "path": "web/tests/turret-single-warning.test.js",
+      "bytes": 3686,
+      "sha256": "67bbf67fbc6fb8bbc1a6616570b1618447cd61218405883deabe2216c5a76d00"
+    },
+    {
+      "path": "web/tests/turret-stone-weathering.test.js",
+      "bytes": 7863,
+      "sha256": "2f30b878d8759fbabbdb128f70329627b64470955aaf6056fb2e5b09e4d72897"
+    },
+    {
+      "path": "web/tests/turret-surface-contact.test.js",
+      "bytes": 5706,
+      "sha256": "f203135a9272fc8f79e5d5f4d12196c80aef62794584cca5ef8a4405fe098a4f"
+    },
+    {
+      "path": "web/tests/turret-view.test.js",
+      "bytes": 5718,
+      "sha256": "216b28e4201c990d0205cf53a5f2b82e086628ebec471ed0cbfca73b940dbf9f"
+    },
+    {
+      "path": "web/tests/ui-assets.test.js",
+      "bytes": 1164,
+      "sha256": "2d3bc7e29dd6f37eb82af9048f4c4d873ed946e6c5600174a2b58612250d04de"
+    },
+    {
+      "path": "web/tests/viewmodel-animation-performance.test.js",
+      "bytes": 5406,
+      "sha256": "dbafb20831142262d8c055f832a92758b2954b3b7f8b529a3a58330fbb22635d"
+    },
+    {
+      "path": "web/tests/voice-assets.test.js",
+      "bytes": 2849,
+      "sha256": "e88e7b4823cbe6424a3a4ab2038b69a8b4cfe7349223ddd50d9def96cfb0ca58"
+    },
+    {
+      "path": "web/tests/voice-schedule.test.js",
+      "bytes": 3144,
+      "sha256": "9545541d5fea553349922759e5ff597b2a7445c661c9ba1f3e93ccaf41397f56"
+    },
+    {
+      "path": "web/tests/w-exit-presentation.test.js",
+      "bytes": 11920,
+      "sha256": "453905061ba6e7b30b36af951255181906c0a13db60f8295dae804f1f88cf3cf"
+    },
+    {
+      "path": "web/tests/w-slow-controller.test.js",
+      "bytes": 4164,
+      "sha256": "b1740a0dd05ad9338f94947c80e2409003d7971509362514fcc6a34199b5f465"
+    },
+    {
+      "path": "web/tests/w-slow-online.test.js",
+      "bytes": 2549,
+      "sha256": "6135718fd501782c90d4f4dcf2e4d94b2d349b005469142b8ccedd6d3415ea01"
+    },
+    {
+      "path": "web/tests/w-slow-runtime.test.js",
+      "bytes": 3069,
+      "sha256": "f37f129dd3f2a5cab89e707839ec889bc615a189bf773bb2e846a09d878aacb1"
+    },
+    {
+      "path": "web/tests/w-stationary-layer.test.js",
+      "bytes": 6534,
+      "sha256": "7ebfec9591c1f1619182ccc2769e1e8ff8c06fb4c3c839815231954b7fbd3535"
+    },
+    {
+      "path": "web/tests/w-stationary-policy-harness.test.js",
+      "bytes": 3763,
+      "sha256": "1d56e61b5c8355ce3ad1951be203bfea229b263ab47d805a501ef34d772e8e46"
+    },
+    {
+      "path": "web/tests/w-stationary-runtime.test.js",
+      "bytes": 7192,
+      "sha256": "8bb16ae28e0d86464a475c3038b85310e4c32b5434ae27aeaa895b07cc9f4513"
+    },
+    {
+      "path": "web/tests/walk-runtime.test.js",
+      "bytes": 10001,
+      "sha256": "04e4e20fb554ff0aed7aadb41bc14538d0c5906e4bb5875aaebd7ed15f74db23"
+    },
+    {
+      "path": "web/touch-layout.css",
+      "bytes": 4507,
+      "sha256": "4786da84b4e4313234da799386ae1188fa903eed8baa9393a82195f32f157bdf"
+    },
+    {
+      "path": "web/training-mirror.js",
+      "bytes": 3103,
+      "sha256": "0aa3fcd2c70dfdfa87a9e09c09d89c243d71fdfc1708a1f44ea2dce9461f442c"
+    },
+    {
+      "path": "web/turret-core.js",
+      "bytes": 8705,
+      "sha256": "e9407650d3b42ed803fdf2fd095008cfa447f24c86c4a2b4bb2c640ec96d4da3"
+    },
+    {
+      "path": "web/turret-direction.js",
+      "bytes": 2908,
+      "sha256": "cb114039569011242c75bb9088b13e1eeecc8dfe3347390b29531ad8921832f3"
+    },
+    {
+      "path": "web/turret-view.js",
+      "bytes": 8200,
+      "sha256": "ae6c829df511a9b57a47bcff5044e0c6739b18e1ac356d06d889d67c8e032f57"
+    },
+    {
+      "path": "web/vendor/BufferGeometryUtils.js",
+      "bytes": 31780,
+      "sha256": "3de832095679e56578beddf70f3e90846a47ec8a886fa8eb21c973cdaef88922"
+    },
+    {
+      "path": "web/vendor/GLTFLoader.js",
+      "bytes": 110278,
+      "sha256": "458b025b12213713958b07012b48aa5e84aebb562c92cfe53ea82d41bda2fd42"
+    },
+    {
+      "path": "web/vendor/Reflector.js",
+      "bytes": 7055,
+      "sha256": "446cba593c612fabf01442b593b6bd69b6a13668ab55866a70579bcb5774ee3e"
+    },
+    {
+      "path": "web/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "web/vendor/three.module.js",
+      "bytes": 1314681,
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    },
+    {
+      "path": "web/voice-cues.js",
+      "bytes": 3481,
+      "sha256": "fdc91cdae213c8db66ac406b1f4030e7a52e3ee4803a705f10934b2705ac3ac7"
+    },
+    {
+      "path": "web/voice-schedule.js",
+      "bytes": 1859,
+      "sha256": "4061a4e41158c0657fd2861e26903bb731a914313bf8e6b7f972b0dc1a76ab92"
+    },
+    {
+      "path": "web/w-stationary-layer.js",
+      "bytes": 6533,
+      "sha256": "f8d81f9e1d259fabc161d801fd1a69650e97f684a94ed21548188cd84ac5ffca"
+    }
+  ],
+  "fileCount": 544
+}
